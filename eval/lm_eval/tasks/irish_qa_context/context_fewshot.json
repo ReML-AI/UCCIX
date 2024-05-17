@@ -1,0 +1,40 @@
+[
+    {
+        "question": "An bhfuil oideachas dara leibhéal saor in aisce in Éirinn?",
+        "answer": [
+            "Tá."
+        ],
+        "context": "Ní ghearrann formhór na n-iar-bhunscoileanna in Éirinn táillí. Tá meánscoileanna deonacha, coláistí pobail agus scoileanna pobail nach n-íocann táille maoinithe ar bhuiséad bliantúil ag an Roinn Oideachais."
+    },
+    {
+        "question": "Cad é córas grádaithe scrúduithe na hArdteistiméireachta?",
+        "answer": [
+            "Tá 8 ngrád ag scála scrúdaithe na hArdteistiméireachta ó 1 go 8.",
+            "1 go 8."
+        ],
+        "context": "Tá 8 ngrád i scála scrúdaithe na hArdteistiméireachta, is é Grád 1 an grád is airde agus is é Grád 8 an grád is ísle. Tháinig an scála grádaithe 8 bpointe in ionad an scála 14 phointe ag an Ardleibhéal agus ag an nGnáthleibhéal araon in 2017. Roinntear marcanna idir 100% agus 30% i seacht mbanda grád (1-7). Tá gach banna 10% ar leithead."
+    },
+    {
+        "question": "Cad is díolúine ann ó staidéar a dhéanamh ar an nGaeilge?",
+        "answer": [
+            "Tá critéir áirithe ann a d'fhéadfadh díolúine a thabhairt do dhalta ó staidéar a dhéanamh ar an nGaeilge."
+        ],
+        "context": "Tá an Ghaeilge ar cheann de na croí-ábhair i gcuraclam na scoile in Éirinn. Caithfidh gach dalta staidéar a dhéanamh ar an nGaeilge mura dtugtar díolúine dóibh ó staidéar a dhéanamh ar an ábhar. Má fhaigheann tú díolúine, ní gá duit staidéar a dhéanamh ar an nGaeilge ar scoil. Tá critéir shonracha ann a cheadaíonn an díolúine i gcúinsí áirithe."
+    },
+    {
+        "question": "Cén dáta ar a bhfuil Lá Fhéile Pádraig?",
+        "answer": [
+            "An seachtú lá déag de Mhárta.",
+            "17ú Márta."
+        ],
+        "context": "Ceiliúrtar Lá Fhéile Pádraig gach bliain ar an 17 Márta, cothrom an lae a bhásaigh sé sa chúigiú haois."
+    },
+    {
+        "question": "Cad é Féile Idirnáisiúnta Rós Thrá Lí?",
+        "answer": [
+            "Tá Féile Idirnáisiúnta Rós Thrá Lí ar cheann de na féilte is mó agus is faide in Éirinn.",
+            "Ceann de na féilte is mó agus is faide ar siúl in Éirinn."
+        ],
+        "context": "Tá Féile Idirnáisiúnta Rós Thrá Lí ar cheann de na féilte is mó agus is faide in Éirinn.  Tá roghnú Rós Thrá Lí le feiceáil ann, ócáid bhliantúil idirnáisiúnta ina mbíonn mná óga de bhunadh na hÉireann as Éirinn agus ar fud an domhain páirteach ann."
+    }
+]

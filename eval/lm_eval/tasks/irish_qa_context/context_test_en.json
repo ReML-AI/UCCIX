@@ -1,0 +1,432 @@
+[
+    {
+        "question": "What is spiced beef?",
+        "answer": [
+            "Beef cured with salt, brown sugar and spices."
+        ],
+        "context": "Spiced beef is an Irish delicacy. It is beef cured with salt, brown sugar and spices. It is usually served cold."
+    },
+    {
+        "question": "What are some traditional Irish dishes that tourists should try?",
+        "answer": [
+            "Irish Stew, Soda Bread, Black and white pudding, Coddle, Barmbrack",
+            "Irish Stew",
+            "Soda Bread",
+            "Black and white pudding",
+            "Coddle",
+            "Barmbrack"
+        ],
+        "context": "There are many traditional irish dishes, to name a few there is Irish Stew, Soda Bread, Black and white pudding, Coddle, Barmbrack and many more."
+    },
+    {
+        "question": "Can you tell me about the tradition of Irish afternoon tea?",
+        "answer": [
+            "Afternoon tea was made to fill the gap between lunch and dinner when people may have gotten hungry."
+        ],
+        "context": "Anna, the 7th Duchess of Bedfordshire, is accredited with inventing Afternoon Tea. In old English tradition for the landed gentry and aristocracy, the main meal of the evening was usually served between 7 pm and 8 pm. According to historical records, it’s said the Duchess would always become way too hungry to last so long for dinner and began to request her staff bring tea and light food to her rooms in mid-afternoon, to stave off those hunger pangs."
+    },
+    {
+        "question": "What are some common breakfast foods eaten in Ireland?",
+        "answer": [
+            "Rashers, Sausages, Baked Beans, grilled tomatoes, mushrooms, Black and White Pudding, Eggs and toast.",
+            "Rashers",
+            "Sausages",
+            "Baked Beans",
+            "grilled tomatoes",
+            "mushrooms",
+            "Black and White Pudding",
+            "Eggs",
+            "toast"
+        ],
+        "context": "All full Irish breakfasts include some or all of the following: Bacon, sausages, baked beans, eggs, mushrooms, grilled tomatoes, and perhaps some cooked leftover potatoes made into a hash or a bubble and squeak. There will also be toast, butter, marmalade, and lots of tea to drink."
+    },
+    {
+        "question": "What are some popular Irish cheeses and dairy products?",
+        "answer": [
+            "Cashel Blue, Dubliner Cheese, Mileens Cheese, Coolea Cheese",
+            "Cashel Blue",
+            "Dubliner Cheese",
+            "Mileens Cheese",
+            "Coolea Cheese"
+        ],
+        "context": "Ireland is renowned for it's cheese and excellent dairy products. Some of the most popular cheeses are Cashel Blue, Dubliner Cheese, Mileens Cheese, Coolea Cheese."
+    },
+    {
+        "question": "Are there any regional specialties or delicacies in Ireland?",
+        "answer": [
+            "There are many different cuisines throughout ireland. The dishes usally comprise of seafood if close to the coast or hearty beef when further inland."
+        ],
+        "context": "Irish cuisine encompasses the cooking styles, traditions and recipes associated with the island of Ireland. Ulster is renowned for it's hearty and rustic flavours for example seafood chowder or stew. Leinster offers a fusion of traditional and modern cuisines from different cultures, Munster hosts a variety of specialties with it's seafood being particularly popular in Cork and Connaught also reaps the reward of the fresh seafood caught off of it's shores."
+    },
+    {
+        "question": "Can you tell me about the role of potatoes in Irish cuisine?",
+        "answer": [
+            "Potatoes formed the basis of many Irish dishes and were eaten both by the Anglo-Irish gentry and the mass of the people. "
+        ],
+        "context": "Potatoes were introduced to Europe and Ireland in the late 16th century. They rapidly gained prominence as a major food crop because they were so simple to plant, reap and cook."
+    },
+    {
+        "question": "Can you recommend some local markets or food festivals in Ireland?",
+        "answer": [
+            "English market in Cork, The Galway market, Limerick Garden Festival, Taste of Dublin.",
+            "English market in Cork",
+            "The Galway market",
+            "Limerick Garden Festival",
+            "Taste of Dublin"
+        ],
+        "context": "There are many Irish markets and food festivals. No matter where you are in the country, there will be an option for you. For example there is the English market in Cork, The Galway market, Limerick Garden Festival, Taste of Dublin."
+    },
+    {
+        "question": "What is colcannon?",
+        "answer": [
+            "A potato and cabbage dish.",
+            "A cabbage and potato dish."
+        ],
+        "context": "Colcannon is a mixture of cooked and shredded cabbage and mashed potatoes. The word colcannon is derived from the Gaelic term cal ceannann, which means \"white-headed cabbage\" — the vegetable most commonly mixed with potatoes in this dish."
+    },
+    {
+        "question": "How many states in the United States?",
+        "answer": [
+            "Fifty.",
+            "50.",
+            "50 states."
+        ],
+        "context": "There are fifty states in the United States of America."
+    },
+    {
+        "question": "What age was Mozart when he died?",
+        "answer": [
+            "Thirty five.",
+            "35."
+        ],
+        "context": "The composer, Wolfgang Amadeus Mozart died at his home in Vienna, Austria, on the fifth of December 1791, at the age of thirty five."
+    },
+    {
+        "question": "What is the meaning of life?",
+        "answer": [
+            "Fourty two.",
+            "42."
+        ],
+        "context": "According to Douglas Adams, forty two is the meaning of life."
+    },
+    {
+        "question": "Who was elected Prime Minister of India in 2014?",
+        "answer": [
+            "Narendra Modi."
+        ],
+        "context": "Narendra Modi, the leader of the Bharatiya Janata Party, was elected Prime Minister of India on May 26 2014."
+    },
+    {
+        "question": "Where is Vatican City located?",
+        "answer": [
+            "Within Rome, Italy.",
+            "Rome, Italy.",
+            "Rome.",
+            "Italy."
+        ],
+        "context": "Vatican City, officially the Vatican City State, is a landlocked independent country and city-state within Rome, Italy."
+    },
+    {
+        "question": "What is Cystic Fibrosys?",
+        "answer": [
+            "Cystic Fibrosys is a genetric disorder.",
+            "A genetric disorder."
+        ],
+        "context": "Cystic Fibrosys is a genetic disorder, in which the lungs and the digestive system get clogged with mucus."
+    },
+    {
+        "question": "What is the Health Service Executive (HSE)?",
+        "answer": [
+            "The Health Service Executive (HSE) is the publicly funded healthcare system in Ireland."
+        ],
+        "context": "The Health Service Executive (HSE) is the publicly funded healthcare system in Ireland. It is responsible for the provision of health and personal social services. It came into operation on the first of January 2005."
+    },
+    {
+        "question": "What is the leading cause of death in Ireland?",
+        "answer": [
+            "Cancer is the leading cause of death in Ireland.",
+            "Cancer."
+        ],
+        "context": "Cancer is the leading cause of death in Ireland at 31% followed closely by circulatory diseases as 29%."
+    },
+    {
+        "question": "How and when did Terence MacSwiney die?",
+        "answer": [
+            "Terence MacSwiney died on hungerstrike on the twenty fifth of October 1920."
+        ],
+        "context": "Terence MacSwiney, the Lord Mayer of Cork, died after seventy four days on hunger strike in Brixton Prison in the UK, on the twenty fifth of October 1920. "
+    },
+    {
+        "question": "What age did Eamon De Valera die and where is he buried?",
+        "answer": [
+            "He died on the twenty ninth of August 1975, and he is buried in Glasnevin Cemetry."
+        ],
+        "context": "Eamon De Valera died on the twenty ninth of August 1975, at the age of 92, and he is buried in Glasnevin Cemetry on the north side of Dublin City."
+    },
+    {
+        "question": "When did Ireland join the European Economic Community?",
+        "answer": [
+            "They joined in 1972.",
+            "1972."
+        ],
+        "context": "After several years of preparation and a previous application, Ireland signed the Treaty of Accession to the join the European Economic Community (EEC - now the European Union or EU) in 1972. As membership of the EEC resulted in the Oireachtas no longer being the sole law making power in the State, it was necessary to hold a referendum to amend the Constitution. The referendum was held on the 10 May 1972. Four out of five people (83.09% of the electorate) voted in favour of the referendum. Turnout for the referendum was high at 70.3%. Ireland joined the EEC on 1 January 1973."
+    },
+    {
+        "question": "When did Patrick Pearse die?",
+        "answer": [
+            "He died on 3rd May 1916.",
+            "3rd May 1916.",
+            "1916."
+        ],
+        "context": "Patrick Henry Pearse was executed on the third of May, 1916."
+    },
+    {
+        "question": "When was Patrick Pearse born?",
+        "answer": [
+            "He was born on the tenth of November eighteen hundred and seventy nine.",
+            "1879",
+            "November 1879"
+        ],
+        "context": "Patrick Henry Pearse was born on the tenth of November eighteen hundred and seventy nine."
+    },
+    {
+        "question": "When was the Ardnacrusha Hydroectric Power Station opened?",
+        "answer": [
+            "It was opened in 1929.",
+            "1929"
+        ],
+        "context": "Ardnacrusha Hydroelectric Power Station was opened in 1929."
+    },
+    {
+        "question": "When was the Common Agricultural Policy (CAP) established?",
+        "answer": [
+            "The CAP was established in 1962.",
+            "1962."
+        ],
+        "context": "The Common Agricultural Policy (CAP) was established in 1962 under the Treaty of Rome. Its objective was to increase food production by offering farmers guaranteed prices for their produce thereby managing supply. Major reforms since then include the introduction of the Single Farm Payment (SFP), decoupling of farm support from production and a focus on environmental protection and animal welfare. Most recently under the 2014-2020 CAP reforms, the SFP has been replaced with the Basic Payment Scheme (BPS). The then European Commissioner for Agriculture and former Minister for Finance, Ray MacSharry, played a key role in the 1992 ‘MacSharry reforms’. The MacSharry reforms & reduced price support in order to reduce trade distortion and introduced direct payments to compensate farmers. In 2016, Irish farmers received €1.2 billion in direct payments and €494 million was allocated for investment in rural development from the EU CAP budget."
+    },
+    {
+        "question": "When was the Office of Public Works (OPW) founded?",
+        "answer": [
+            "The OPW was founded in 1831.",
+            "1831."
+        ],
+        "context": "The Office of Public Works (OPW) (or “Board of Works” as it has also been called) was established in 1831, by an Act of Parliament: An Act for the Extension and Promotion of Public Works in Ireland."
+    },
+    {
+        "question": "Where and when was Eamon De Valera born?",
+        "answer": [
+            "He was born in New York in 1882.",
+            "New York 1882",
+            "New York, 1882"
+        ],
+        "context": "Eamon De Valera was born in Manhattan, New York, on 14th October 1882."
+    },
+    {
+        "question": "What colours are on the Irish flag?",
+        "answer": [
+            "Green, white and orange."
+        ],
+        "context": "The Irish flag consists of three vertical stripes of green, white and orange. The green symbolises the Catholic Christian religion, the orange represents the Protestant Christian religion and the white stands for the peace between Catholics and Protestants."
+    },
+    {
+        "question": "What is the capital of Ireland?",
+        "answer": [
+            "Dublin"
+        ],
+        "context": "Dublin is the capital of Ireland."
+    },
+    {
+        "question": "What is the largest city in Northern Ireland?",
+        "answer": [
+            "Belfast"
+        ],
+        "context": "Belfast is the largest city in Northern Ireland."
+    },
+    {
+        "question": "What is the second largest city in the Republic of Ireland?",
+        "answer": [
+            "Cork"
+        ],
+        "context": "Cork is the second largest city in the Republic of Ireland."
+    },
+    {
+        "question": "When did Ireland join the United Nations?",
+        "answer": [
+            "Fourteenth of December 1955.",
+            "1955.",
+            "December 1955.",
+            "14th December 1955."
+        ],
+        "context": "On the fourteenth of December 1955, Ireland took its place as the 63rd member of the UN."
+    },
+    {
+        "question": "Did Ireland sign the Treaty on the Prohibition of Nuclear Weapons?",
+        "answer": [
+            "Yes."
+        ],
+        "context": "Ireland signed the Treaty on the Prohibition of Nuclear Weapons (TPNW). It was among the original 50 states parties to the treaty when it entered into force on 22 January 2021."
+    },
+    {
+        "question": "How many Nobel Peace Laureates have come from Ireland?",
+        "answer": [
+            "Five, three from the Republic of Ireland and two from Northern Ireland.",
+            "Five.",
+            "5."
+        ],
+        "context": "Five Nobel Peace Laureates have come from Ireland, three have come from the Republic of Ireland and two have come from Northern Ireland. "
+    },
+    {
+        "question": "What are the names of the two Houses of the Oireachtas?",
+        "answer": [
+            "Dáil Éireann and the Seanad Éireann."
+        ],
+        "context": "The Oireachtas consists of the President of Ireland and the two houses of the Oireachtas (Irish: Tithe an Oireachtais), the Dáil Éireann (lower house) and the Seanad Éireann (upper house). The houses of the Oireachtas sit in Leinster House in Dublin"
+    },
+    {
+        "question": "What is the official residence of the President of Ireland?",
+        "answer": [
+            "Áras an Uachtaráin."
+        ],
+        "context": "Áras an Uachtaráin in Phoenix Park, Dublin is the official residence of the President of Ireland."
+    },
+    {
+        "question": "What is the highest court in Ireland?",
+        "answer": [
+            "The Supreme Court."
+        ],
+        "context": "The Supreme Court is the highest court in Ireland and the court of final appeals.  It was formally established on 29th September, 1961 under the terms of Article 34 of the Constitution of Ireland."
+    },
+    {
+        "question": "What is the function of the Arts Council of Ireland?",
+        "answer": [
+            "Develop, support, promote and coordinate the arts at the local level."
+        ],
+        "context": "The function of the Arts Council in Ireland is to stimulate public ineterst in the arts, promote knowledge, appreciateion and practice of the arts, assist in improving standards in the arts and advise the Minister and other public bodies on the arts."
+    },
+    {
+        "question": "Name the Irish author who wrote the famous novel \"Ulysses.\"",
+        "answer": [
+            "James Joyce."
+        ],
+        "context": "James Joyce is the Irish author who wrote the famous novel \"Ulysses\"."
+    },
+    {
+        "question": "What is the largest island off the coast of Ireland?",
+        "answer": [
+            "Achill Island."
+        ],
+        "context": "Achill Island is the largest Island and it is located off the coast of Mayo."
+    },
+    {
+        "question": "What is the largest lake in Ireland?",
+        "answer": [
+            "Lough Neagh."
+        ],
+        "context": "Lough Neagh is the largest lake in the island of Ireland and indeed the entire British Isles but Lough Corrib is the largest lake in the Republic of Ireland."
+    },
+    {
+        "question": "What is the largest ocean in the world?",
+        "answer": [
+            "The Pacific Ocean."
+        ],
+        "context": "The Pacific Ocean is the largest ocean in the world, covering about 28% of the surface of the Earth and 46% of the water surface."
+    },
+    {
+        "question": "What ocean lies off the west coast of Ireland?",
+        "answer": [
+            "The Atlantic Ocean."
+        ],
+        "context": "The Atlantic Ocean lies off the west coast of Ireland."
+    },
+    {
+        "question": "What trees are indigenous to Ireland?",
+        "answer": [
+            "Oak, ash, hazel, birch, Scots pine, rowan and willow. "
+        ],
+        "context": "The oak, ash, hazel, birch, Scots pine, rowan and willow are all trees that are idigenous to Ireland."
+    },
+    {
+        "question": "How many times did Ireland win the Eurovision Song Contest",
+        "answer": [
+            "7 times.",
+            "7",
+            "Seven.",
+            "Seven times."
+        ],
+        "context": "Ireland has won the Eurovision Song Contest seven times, including three consecutive wins. Ireland holds the record for the most wins."
+    },
+    {
+        "question": "What is the largest religion in Ireland?",
+        "answer": [
+            "Roman Catholic."
+        ],
+        "context": "According to the 2016 census, 78 percent of the population of Ireland is Roman Catholic."
+    },
+    {
+        "question": "What is the chemical name for rust?",
+        "answer": [
+            "Iron Oxide."
+        ],
+        "context": "Rust is the common name of the chemical called iron oxide, which is formed by the reaction of iron and oxygen in the presence of water or air moisture."
+    },
+    {
+        "question": "What is the chemical name for table salt?",
+        "answer": [
+            "Sodium Chloride."
+        ],
+        "context": "Sodium Chloride is the chemical name for table salt."
+    },
+    {
+        "question": "What were the most important discoveries made by Albert Einstein?",
+        "answer": [
+            "The Photoelectric Effect and Light Quanta, Special and General Relativity"
+        ],
+        "context": "Albert Einstein was a physicist and mathematician. His most important discoveries include the Photoelectric Effect and Light Quanta, Special and General Relativity. He is most famous for his mass-energy equivalence formula E equals M times C squared, where C represents the speed of light."
+    },
+    {
+        "question": "Who discovered the double helix structure of DNA and in what year did they discover it?",
+        "answer": [
+            "James Watson and Francis Crick."
+        ],
+        "context": "James Watson and Francis Crick discovered the double helix structure of DNA in 1953, with the help of biophysicists Rosalind Franklin and Maurice Wilkins."
+    },
+    {
+        "question": "What is a PPS number?",
+        "answer": [
+            "A number, unique to an individual, used to accessing social services in Ireland."
+        ],
+        "context": "A Personal Public Service (PPS) number (sometimes call PPSN) is a unique reference number that helps a person access social welfare benefits, public services and information in Ireland."
+    },
+    {
+        "question": "What county won the All Ireland Gaelic Football Senior Championship in 2015?",
+        "answer": [
+            "Dublin."
+        ],
+        "context": "Dublin won the All Ireland Gaelic Football Senior Championship in 2015. Dublin dethroned defending champions Kerry in the final, winning by 0–12 to 0–9."
+    },
+    {
+        "question": "Which Irish province has won the most European Champions Cup titles in Rugby?",
+        "answer": [
+            "Leinster."
+        ],
+        "context": "Leinster have won the title on four occasions, more than any other province."
+    },
+    {
+        "question": "Which county has won the most All Ireland Senior Camogie titles?",
+        "answer": [
+            "Cork have won the All-Ireland Senior Camogie Championship the most times.",
+            "Cork",
+            "Cork County."
+        ],
+        "context": "Cork have won the All-Ireland Senior Camogie Championship the most times with twenty eight titles."
+    },
+    {
+        "question": "How many people in Ireland play GAA?",
+        "answer": [
+            "511,500",
+            "511500"
+        ],
+        "context": "In Ireland, there are 32 County Boards with a total of 1,615 GAA Clubs and 511,500 registered members across the island of Ireland."
+    }
+]

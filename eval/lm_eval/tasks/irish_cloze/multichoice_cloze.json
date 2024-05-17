@@ -1,0 +1,602 @@
+[
+    {
+        "label": 0,
+        "sentence1": "An í Eilís an bainisteoir?",
+        "sentence2": "An é Eilís an bainisteoir?",
+        "sentence3": "An iad Eilís an bainisteoir?"
+    },
+    {
+        "label": 0,
+        "sentence1": "Is í an líne glas teorainn an cheantair.",
+        "sentence2": "Is é an líne glas teorainn an cheantair.",
+        "sentence3": "Is iad an líne glas teorainn an cheantair."
+    },
+    {
+        "label": 1,
+        "sentence1": "Ní hí Briain an múinteoir.",
+        "sentence2": "Ní hé Briain an múinteoir.",
+        "sentence3": "Ní hiad Briain an múinteoir."
+    },
+    {
+        "label": 1,
+        "sentence1": "Fear maith is ea í.",
+        "sentence2": "Fear maith is ea é.",
+        "sentence3": "Fear maith is ea iad."
+    },
+    {
+        "label": 1,
+        "sentence1": "Is deas an lá í.",
+        "sentence2": "Is deas an lá é.",
+        "sentence3": "Is deas an lá iad."
+    },
+    {
+        "label": 1,
+        "sentence1": "Arbh í Seán a bhí ann?",
+        "sentence2": "Arbh é Seán a bhí ann?",
+        "sentence3": "Arbh iad Seán a bhí ann?"
+    },
+    {
+        "label": 1,
+        "sentence1": "Cheannaigh Seán leabhar agus léigh sé í.",
+        "sentence2": "Cheannaigh Seán leabhar agus léigh sé é.",
+        "sentence3": "Cheannaigh Seán leabhar agus léigh sé iad."
+    },
+    {
+        "label": 2,
+        "sentence1": "An í na daoine siúd na buaiteoirí?",
+        "sentence2": "An é na daoine siúd na buaiteoirí?",
+        "sentence3": "An iad na daoine siúd na buaiteoirí?"
+    },
+    {
+        "label": 0,
+        "sentence1": "Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath í Seosaimhín Ní Bheaglaoich a tógadh i mBaile na bPoc, Contae Chiarraí.",
+        "sentence2": "Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath é Seosaimhín Ní Bheaglaoich a tógadh i mBaile na bPoc, Contae Chiarraí.",
+        "sentence3": "Iriseoir agus craoltóir le Raidió na Gaeltachta i mBaile Átha Cliath iad Seosaimhín Ní Bheaglaoich a tógadh i mBaile na bPoc, Contae Chiarraí."
+    },
+    {
+        "label": 0,
+        "sentence1": "D'inis sí an scéal ar fad di - gur rugadh iníon óg rua d'Eithne, an Bhanríon Óg, beagnach seacht mbliana déag roimhe sin agus gur cailleadh í i dtinneas clainne.",
+        "sentence2": "D'inis sí an scéal ar fad di - gur rugadh iníon óg rua d'Eithne, an Bhanríon Óg, beagnach seacht mbliana déag roimhe sin agus gur cailleadh é i dtinneas clainne.",
+        "sentence3": "D'inis sí an scéal ar fad di - gur rugadh iníon óg rua d'Eithne, an Bhanríon Óg, beagnach seacht mbliana déag roimhe sin agus gur cailleadh iad i dtinneas clainne."
+    },
+    {
+        "label": 1,
+        "sentence1": "Airteagal 47 Má dhéantar iarratas nó doiciméad eile nós imeachta a seoladh chuig an gCúirt Chéadchéime a thaisceadh de dhearmad le Cláraitheoir na Cúirte Breithiúnais, déanfaidh an Cláraitheoir sin í a sheoladh láithreach chuig Cláraitheoir na Cúirte Céadchéime; mar an gcéanna, má dhéantar iarratas nó doiciméad eile nós imeachta a seoladh chuig an gCúirt Bhreithiúnais a thaisceadh de dhearmad le Cláraitheoir na Cúirte Céadchéime, déanfaidh an Chláraitheoir sin é a sheoladh láithreach chuig Cláraitheoir na Cúirte Breithiúnais.",
+        "sentence2": "Airteagal 47 Má dhéantar iarratas nó doiciméad eile nós imeachta a seoladh chuig an gCúirt Chéadchéime a thaisceadh de dhearmad le Cláraitheoir na Cúirte Breithiúnais, déanfaidh an Cláraitheoir sin é a sheoladh láithreach chuig Cláraitheoir na Cúirte Céadchéime; mar an gcéanna, má dhéantar iarratas nó doiciméad eile nós imeachta a seoladh chuig an gCúirt Bhreithiúnais a thaisceadh de dhearmad le Cláraitheoir na Cúirte Céadchéime, déanfaidh an Chláraitheoir sin é a sheoladh láithreach chuig Cláraitheoir na Cúirte Breithiúnais.",
+        "sentence3": "Airteagal 47 Má dhéantar iarratas nó doiciméad eile nós imeachta a seoladh chuig an gCúirt Chéadchéime a thaisceadh de dhearmad le Cláraitheoir na Cúirte Breithiúnais, déanfaidh an Cláraitheoir sin iad a sheoladh láithreach chuig Cláraitheoir na Cúirte Céadchéime; mar an gcéanna, má dhéantar iarratas nó doiciméad eile nós imeachta a seoladh chuig an gCúirt Bhreithiúnais a thaisceadh de dhearmad le Cláraitheoir na Cúirte Céadchéime, déanfaidh an Chláraitheoir sin é a sheoladh láithreach chuig Cláraitheoir na Cúirte Breithiúnais."
+    },
+    {
+        "label": 1,
+        "sentence1": "Tá siad ag obair le Tom. Fear maith is ea í. Tá sé an-chabhrach nuair atá fadhb agat, agus tá sé cliste.",
+        "sentence2": "Tá siad ag obair le Tom. Fear maith is ea é. Tá sé an-chabhrach nuair atá fadhb agat, agus tá sé cliste.",
+        "sentence3": "Tá siad ag obair le Tom. Fear maith is ea iad. Tá sé an-chabhrach nuair atá fadhb agat, agus tá sé cliste."
+    },
+    {
+        "label": 0,
+        "sentence1": "Ba í Cáit Ní Leme a thug léi an chraobh sa chéad chomórtas filíochta a reáchtáil an grúpa nua ‘Ó Bhéal na mBan’ le deireanas.",
+        "sentence2": "Ba é Cáit Ní Leme a thug léi an chraobh sa chéad chomórtas filíochta a reáchtáil an grúpa nua ‘Ó Bhéal na mBan’ le deireanas.",
+        "sentence3": "Ba iad Cáit Ní Leme a thug léi an chraobh sa chéad chomórtas filíochta a reáchtáil an grúpa nua ‘Ó Bhéal na mBan’ le deireanas."
+    },
+    {
+        "label": 0,
+        "sentence1": "B’in í an chéad bhliain a bhí mé i measc mo chuid col ceathracha agus mé sásta ól (cé go raibh mé fós faoi aois óil Mheiriceá).",
+        "sentence2": "B’in é an chéad bhliain a bhí mé i measc mo chuid col ceathracha agus mé sásta ól (cé go raibh mé fós faoi aois óil Mheiriceá).",
+        "sentence3": "B’in iad an chéad bhliain a bhí mé i measc mo chuid col ceathracha agus mé sásta ól (cé go raibh mé fós faoi aois óil Mheiriceá)."
+    },
+    {
+        "label": 1,
+        "sentence1": "Fiú mura bhfuil mé cinnte faoi rud éicint, tá mé níos fearr as á dhéanamh agus aiféala a bheith orm go ndearna mé é ná gan í a dhéanamh agus aiféala a bheith orm nach ndearna.",
+        "sentence2": "Fiú mura bhfuil mé cinnte faoi rud éicint, tá mé níos fearr as á dhéanamh agus aiféala a bheith orm go ndearna mé é ná gan é a dhéanamh agus aiféala a bheith orm nach ndearna.",
+        "sentence3": "Fiú mura bhfuil mé cinnte faoi rud éicint, tá mé níos fearr as á dhéanamh agus aiféala a bheith orm go ndearna mé é ná gan iad a dhéanamh agus aiféala a bheith orm nach ndearna."
+    },
+    {
+        "label": 1,
+        "sentence1": "An dara rud, agus rud a d’fhéadfaí a dhéanamh anois díreach ná deireadh a chur le cuntais anaithnide ar Twitter. Ní thógfadh sé sin achar ar bith agus ní theastódh aon thaighde chun í a dhéanamh. Ach is dóigh go mbeadh sé sin róchasta le déanamh.",
+        "sentence2": "An dara rud, agus rud a d’fhéadfaí a dhéanamh anois díreach ná deireadh a chur le cuntais anaithnide ar Twitter. Ní thógfadh sé sin achar ar bith agus ní theastódh aon thaighde chun é a dhéanamh. Ach is dóigh go mbeadh sé sin róchasta le déanamh.",
+        "sentence3": "An dara rud, agus rud a d’fhéadfaí a dhéanamh anois díreach ná deireadh a chur le cuntais anaithnide ar Twitter. Ní thógfadh sé sin achar ar bith agus ní theastódh aon thaighde chun iad a dhéanamh. Ach is dóigh go mbeadh sé sin róchasta le déanamh."
+    },
+    {
+        "label": 2,
+        "sentence1": "Beidh siopa leabhar Gaeilge Bhéal Feirste ar oscailt don phobal arís amárach. Bhí seirbhís ‘cliceáil agus bailigh’ ar fáil ón siopa aitheanta leabhar ar Bhóthar na bhFál le cúpla seachtain anuas, ach anois agus na srianta in aghaidh an víris chorónaigh á maolú, beifear in ann dul isteach sa siopa le breathnú ar na leabhair agus í a cheannach.",
+        "sentence2": "Beidh siopa leabhar Gaeilge Bhéal Feirste ar oscailt don phobal arís amárach. Bhí seirbhís ‘cliceáil agus bailigh’ ar fáil ón siopa aitheanta leabhar ar Bhóthar na bhFál le cúpla seachtain anuas, ach anois agus na srianta in aghaidh an víris chorónaigh á maolú, beifear in ann dul isteach sa siopa le breathnú ar na leabhair agus é a cheannach.",
+        "sentence3": "Beidh siopa leabhar Gaeilge Bhéal Feirste ar oscailt don phobal arís amárach. Bhí seirbhís ‘cliceáil agus bailigh’ ar fáil ón siopa aitheanta leabhar ar Bhóthar na bhFál le cúpla seachtain anuas, ach anois agus na srianta in aghaidh an víris chorónaigh á maolú, beifear in ann dul isteach sa siopa le breathnú ar na leabhair agus iad a cheannach."
+    },
+    {
+        "label": 1,
+        "sentence1": "Anois, tá timpeall ar 30 duine acu ann. Rud atá suimiúil fé Mhicheál, má tá, ná gurb é an príomhdhriogaire is óige in Éirinn í, in aois a 29 bliain.",
+        "sentence2": "Anois, tá timpeall ar 30 duine acu ann. Rud atá suimiúil fé Mhicheál, má tá, ná gurb é an príomhdhriogaire is óige in Éirinn é, in aois a 29 bliain.",
+        "sentence3": "Anois, tá timpeall ar 30 duine acu ann. Rud atá suimiúil fé Mhicheál, má tá, ná gurb é an príomhdhriogaire is óige in Éirinn iad, in aois a 29 bliain."
+    },
+    {
+        "label": 1,
+        "sentence1": "Is údar mór bróid dóibh ar fad sa drioglann í, an t-aitheantas seo, mar ná fuilid ar an bhfód ach ó 2019. Lonnaithe i nDroichead Átha atáid.",
+        "sentence2": "Is údar mór bróid dóibh ar fad sa drioglann é, an t-aitheantas seo, mar ná fuilid ar an bhfód ach ó 2019. Lonnaithe i nDroichead Átha atáid.",
+        "sentence3": "Is údar mór bróid dóibh ar fad sa drioglann iad, an t-aitheantas seo, mar ná fuilid ar an bhfód ach ó 2019. Lonnaithe i nDroichead Átha atáid."
+    },
+    {
+        "label": 2,
+        "sentence1": "Is breá liom na treochtaí seo ach dathanna neon! Sin é an iomarca dathanna. Agus tá mé cinnte go bhfuil léinte agus geansaithe le muinchille puif ag mo mháthair, ba bhreá léi í sna 80idí. B’fhéidir go bhfuil roinnt léinte fós ina vardrús is féidir liom a fháil ar iasacht.,",
+        "sentence2": "Is breá liom na treochtaí seo ach dathanna neon! Sin é an iomarca dathanna. Agus tá mé cinnte go bhfuil léinte agus geansaithe le muinchille puif ag mo mháthair, ba bhreá léi é sna 80idí. B’fhéidir go bhfuil roinnt léinte fós ina vardrús is féidir liom a fháil ar iasacht.,",
+        "sentence3": "Is breá liom na treochtaí seo ach dathanna neon! Sin é an iomarca dathanna. Agus tá mé cinnte go bhfuil léinte agus geansaithe le muinchille puif ag mo mháthair, ba bhreá léi iad sna 80idí. B’fhéidir go bhfuil roinnt léinte fós ina vardrús is féidir liom a fháil ar iasacht.,"
+    },
+    {
+        "label": 0,
+        "sentence1": "Is í Aoife Ní Chiobháin as Corca Dhuibhne ‘an Duine is Aclaí sa Ghaeltacht’ tar éis di an míleáiste is mó a chur isteach i gComórtas Reatha na Gaeltachta – 749km.",
+        "sentence2": "Is é Aoife Ní Chiobháin as Corca Dhuibhne ‘an Duine is Aclaí sa Ghaeltacht’ tar éis di an míleáiste is mó a chur isteach i gComórtas Reatha na Gaeltachta – 749km.",
+        "sentence3": "Is iad Aoife Ní Chiobháin as Corca Dhuibhne ‘an Duine is Aclaí sa Ghaeltacht’ tar éis di an míleáiste is mó a chur isteach i gComórtas Reatha na Gaeltachta – 749km."
+    },
+    {
+        "label": 2,
+        "sentence1": "Ach, léirigh an taighde a rinneadh sa staidéar thuasluaite, go bhfuil na haipeanna seo in ann brú intinne a chur ar dhuine, go háirithe más daoine í a éiríonn ródhírithe ar rudaí, nó má tá neamhord itheacháin ag dul dóibh.",
+        "sentence2": "Ach, léirigh an taighde a rinneadh sa staidéar thuasluaite, go bhfuil na haipeanna seo in ann brú intinne a chur ar dhuine, go háirithe más daoine é a éiríonn ródhírithe ar rudaí, nó má tá neamhord itheacháin ag dul dóibh.",
+        "sentence3": "Ach, léirigh an taighde a rinneadh sa staidéar thuasluaite, go bhfuil na haipeanna seo in ann brú intinne a chur ar dhuine, go háirithe más daoine iad a éiríonn ródhírithe ar rudaí, nó má tá neamhord itheacháin ag dul dóibh."
+    },
+    {
+        "label": 0,
+        "sentence1": "Seo béile aoibhinn fuirist nach dtógann ach timpeall leathuair a chloig chun í a ullmhú.",
+        "sentence2": "Seo béile aoibhinn fuirist nach dtógann ach timpeall leathuair a chloig chun é a ullmhú.",
+        "sentence3": "Seo béile aoibhinn fuirist nach dtógann ach timpeall leathuair a chloig chun iad a ullmhú."
+    },
+    {
+        "label": 2,
+        "sentence1": "Nuair a bheidh na núdail ríse déanta (10 nóiméad), sruthaigh le huisce fuar í. Cuir thar n-ais sa phota iad agus cuir braoinín íle seasamain agus sú líoma leo.",
+        "sentence2": "Nuair a bheidh na núdail ríse déanta (10 nóiméad), sruthaigh le huisce fuar é. Cuir thar n-ais sa phota iad agus cuir braoinín íle seasamain agus sú líoma leo.",
+        "sentence3": "Nuair a bheidh na núdail ríse déanta (10 nóiméad), sruthaigh le huisce fuar iad. Cuir thar n-ais sa phota iad agus cuir braoinín íle seasamain agus sú líoma leo."
+    },
+    {
+        "label": 0,
+        "sentence1": "Tá Kitty ina banríon draig le tuairim is bliain anois, agus tá sí tar éis roinnt mhaith leantóirí dá cuid féin a mhealladh ar na meáin shóisialta. Ba í a d’eagraigh an chéad seó draig i nGaeilge anuraidh agus úsáideann sí ealaín an draig leis an nGaeilge a chur chun cinn ar na hardáin éagsúla.",
+        "sentence2": "Tá Kitty ina banríon draig le tuairim is bliain anois, agus tá sí tar éis roinnt mhaith leantóirí dá cuid féin a mhealladh ar na meáin shóisialta. Ba é a d’eagraigh an chéad seó draig i nGaeilge anuraidh agus úsáideann sí ealaín an draig leis an nGaeilge a chur chun cinn ar na hardáin éagsúla.",
+        "sentence3": "Tá Kitty ina banríon draig le tuairim is bliain anois, agus tá sí tar éis roinnt mhaith leantóirí dá cuid féin a mhealladh ar na meáin shóisialta. Ba iad a d’eagraigh an chéad seó draig i nGaeilge anuraidh agus úsáideann sí ealaín an draig leis an nGaeilge a chur chun cinn ar na hardáin éagsúla."
+    },
+    {
+        "label": 0,
+        "sentence1": "Dúirt roinnt daoine liom gurb í seo an chéad uair a d’úsáid siad an Ghaeilge le blianta agus go bhfuil spéis acu sna rudaí a chuireann muid suas.",
+        "sentence2": "Dúirt roinnt daoine liom gurb é seo an chéad uair a d’úsáid siad an Ghaeilge le blianta agus go bhfuil spéis acu sna rudaí a chuireann muid suas.",
+        "sentence3": "Dúirt roinnt daoine liom gurb iad seo an chéad uair a d’úsáid siad an Ghaeilge le blianta agus go bhfuil spéis acu sna rudaí a chuireann muid suas."
+    },
+    {
+        "label": 1,
+        "sentence1": "Ní hí nach bhfuil meas ar bith agam ar an stuif a scríobhadh sa Sean-Tiomna, tuigim go maith gur tharla go leor sular tháinig Íosa anuas as na flaithis agus go bhfuil baint ag cuid mhaith den mhéid atá sa Sean-Tiomna leis an gcreidimh Críostaí freisin.",
+        "sentence2": "Ní hé nach bhfuil meas ar bith agam ar an stuif a scríobhadh sa Sean-Tiomna, tuigim go maith gur tharla go leor sular tháinig Íosa anuas as na flaithis agus go bhfuil baint ag cuid mhaith den mhéid atá sa Sean-Tiomna leis an gcreidimh Críostaí freisin.",
+        "sentence3": "Ní hiad nach bhfuil meas ar bith agam ar an stuif a scríobhadh sa Sean-Tiomna, tuigim go maith gur tharla go leor sular tháinig Íosa anuas as na flaithis agus go bhfuil baint ag cuid mhaith den mhéid atá sa Sean-Tiomna leis an gcreidimh Críostaí freisin."
+    },
+    {
+        "label": 1,
+        "sentence1": "Is iontach an faoiseamh í sin.",
+        "sentence2": "Is iontach an faoiseamh é sin.",
+        "sentence3": "Is iontach an faoiseamh iad sin."
+    },
+    {
+        "label": 0,
+        "sentence1": "Agus seo í an fhadhb mhór leis an bhfógra seo.",
+        "sentence2": "Agus seo é an fhadhb mhór leis an bhfógra seo.",
+        "sentence3": "Agus seo iad an fhadhb mhór leis an bhfógra seo."
+    },
+    {
+        "label": 1,
+        "sentence1": "Ní féidir glacadh leis mar sin go bhfágfaidh siad orthu a masc, go háirithe nuair a dhiúltaigh siad í a chur orthu an chéad lá riamh.",
+        "sentence2": "Ní féidir glacadh leis mar sin go bhfágfaidh siad orthu a masc, go háirithe nuair a dhiúltaigh siad é a chur orthu an chéad lá riamh.",
+        "sentence3": "Ní féidir glacadh leis mar sin go bhfágfaidh siad orthu a masc, go háirithe nuair a dhiúltaigh siad iad a chur orthu an chéad lá riamh."
+    },
+    {
+        "label": 1,
+        "sentence1": "Mar sin, cé go bhfuil an vacsaín faighte agam féin, agus cé gur bhreá liom dul isteach i dteach ósta pacáilte lán le daoine agus le frídíní agus an oíche a chaitheamh ag caint agus ag gáire, is oth liom a rá nach mbeadh mé ar mo shuaimhneas fós é sin a dhéanamh, fiú dá mba rud í gur i Meiriceá a bhí mé, agus lánchead tugtha dom.",
+        "sentence2": "Mar sin, cé go bhfuil an vacsaín faighte agam féin, agus cé gur bhreá liom dul isteach i dteach ósta pacáilte lán le daoine agus le frídíní agus an oíche a chaitheamh ag caint agus ag gáire, is oth liom a rá nach mbeadh mé ar mo shuaimhneas fós é sin a dhéanamh, fiú dá mba rud é gur i Meiriceá a bhí mé, agus lánchead tugtha dom.",
+        "sentence3": "Mar sin, cé go bhfuil an vacsaín faighte agam féin, agus cé gur bhreá liom dul isteach i dteach ósta pacáilte lán le daoine agus le frídíní agus an oíche a chaitheamh ag caint agus ag gáire, is oth liom a rá nach mbeadh mé ar mo shuaimhneas fós é sin a dhéanamh, fiú dá mba rud iad gur i Meiriceá a bhí mé, agus lánchead tugtha dom."
+    },
+    {
+        "label": 0,
+        "sentence1": "Is í an peileadóir Máire Ní Bhraonáin a chuirfidh an tsraith anailíse Peil na mBan Beo i láthair agus painéal saineolaithe in éineacht léi: Michelle Ryan as Port Láirge, Sorcha Furlong agus Sinéad Finnegan as Baile Átha Cliath, Rena Buckley agus Rhóna Ní Bhuachalla as Corcaigh, agus Vikki Wall as contae na Mí in measc.",
+        "sentence2": "Is é an peileadóir Máire Ní Bhraonáin a chuirfidh an tsraith anailíse Peil na mBan Beo i láthair agus painéal saineolaithe in éineacht léi: Michelle Ryan as Port Láirge, Sorcha Furlong agus Sinéad Finnegan as Baile Átha Cliath, Rena Buckley agus Rhóna Ní Bhuachalla as Corcaigh, agus Vikki Wall as contae na Mí in measc.",
+        "sentence3": "Is iad an peileadóir Máire Ní Bhraonáin a chuirfidh an tsraith anailíse Peil na mBan Beo i láthair agus painéal saineolaithe in éineacht léi: Michelle Ryan as Port Láirge, Sorcha Furlong agus Sinéad Finnegan as Baile Átha Cliath, Rena Buckley agus Rhóna Ní Bhuachalla as Corcaigh, agus Vikki Wall as contae na Mí in measc."
+    },
+    {
+        "label": 2,
+        "sentence1": "B’fhéidir gur chuir rud eicínt colg orthu, nó gur mhaslaigh an chéad teachtaireacht í féin mar dhaoine agus gur mhothaigh siad go raibh siad ag iarraidh rud eicínt a rá ar ais. Sin iad na daoine is dóigh a n-oibreoidh an t-athrú seo dóibh.",
+        "sentence2": "B’fhéidir gur chuir rud eicínt colg orthu, nó gur mhaslaigh an chéad teachtaireacht é féin mar dhaoine agus gur mhothaigh siad go raibh siad ag iarraidh rud eicínt a rá ar ais. Sin iad na daoine is dóigh a n-oibreoidh an t-athrú seo dóibh.",
+        "sentence3": "B’fhéidir gur chuir rud eicínt colg orthu, nó gur mhaslaigh an chéad teachtaireacht iad féin mar dhaoine agus gur mhothaigh siad go raibh siad ag iarraidh rud eicínt a rá ar ais. Sin iad na daoine is dóigh a n-oibreoidh an t-athrú seo dóibh."
+    },
+    {
+        "label": 0,
+        "sentence1": "Is í an ceoltóir aonair is rathúla in Éirinn agus os cionn 75 milliún rian díolta aici ar fud an domhain – rud a fhágann go bhfuil sí ar dhuine de na ceoltóirí is rathúla ar domhan freisin.",
+        "sentence2": "Is é an ceoltóir aonair is rathúla in Éirinn agus os cionn 75 milliún rian díolta aici ar fud an domhain – rud a fhágann go bhfuil sí ar dhuine de na ceoltóirí is rathúla ar domhan freisin.",
+        "sentence3": "Is iad an ceoltóir aonair is rathúla in Éirinn agus os cionn 75 milliún rian díolta aici ar fud an domhain – rud a fhágann go bhfuil sí ar dhuine de na ceoltóirí is rathúla ar domhan freisin."
+    },
+    {
+        "label": 0,
+        "sentence1": "Agus í ina cailín óg ba mhinic Enya ar stáitse Amharclann Ghaoth Dobhair in Ard na gCeapairí agus ghlacadh sí páirt go rialta i gcomórtais áitiúla agus náisiúnta ar nós na Feise Ceoil. Cheannaigh sí caisleán i gCill Iníon Léinín i mBaile Átha Cliath in 1997 agus thug an t-ainm Caisleán Manderly air. Is ann atá sí ina cónaí ó shin.",
+        "sentence2": "Agus é ina cailín óg ba mhinic Enya ar stáitse Amharclann Ghaoth Dobhair in Ard na gCeapairí agus ghlacadh sí páirt go rialta i gcomórtais áitiúla agus náisiúnta ar nós na Feise Ceoil. Cheannaigh sí caisleán i gCill Iníon Léinín i mBaile Átha Cliath in 1997 agus thug an t-ainm Caisleán Manderly air. Is ann atá sí ina cónaí ó shin.",
+        "sentence3": "Agus iad ina cailín óg ba mhinic Enya ar stáitse Amharclann Ghaoth Dobhair in Ard na gCeapairí agus ghlacadh sí páirt go rialta i gcomórtais áitiúla agus náisiúnta ar nós na Feise Ceoil. Cheannaigh sí caisleán i gCill Iníon Léinín i mBaile Átha Cliath in 1997 agus thug an t-ainm Caisleán Manderly air. Is ann atá sí ina cónaí ó shin."
+    },
+    {
+        "label": 2,
+        "sentence1": "Léiríonn an taispeántas seo go soiléir an fhís iontach agus an chumhacht atá ag gach duine de na healaíontóirí ina theanga amhairc féin agus í le chéile anseo taobh istigh de phriosma thíreolaíocht na Gaeltachta agus de spiorad na Gaeltachta,” a dúirt Úna Campbell.",
+        "sentence2": "Léiríonn an taispeántas seo go soiléir an fhís iontach agus an chumhacht atá ag gach duine de na healaíontóirí ina theanga amhairc féin agus é le chéile anseo taobh istigh de phriosma thíreolaíocht na Gaeltachta agus de spiorad na Gaeltachta,” a dúirt Úna Campbell.",
+        "sentence3": "Léiríonn an taispeántas seo go soiléir an fhís iontach agus an chumhacht atá ag gach duine de na healaíontóirí ina theanga amhairc féin agus iad le chéile anseo taobh istigh de phriosma thíreolaíocht na Gaeltachta agus de spiorad na Gaeltachta,” a dúirt Úna Campbell."
+    },
+    {
+        "label": 0,
+        "sentence1": "Tá cultúr físiúil na Gaeltachta chomh bríomhar agus chomh héagsúil agus atá an Ghaeltacht í féin.",
+        "sentence2": "Tá cultúr físiúil na Gaeltachta chomh bríomhar agus chomh héagsúil agus atá an Ghaeltacht é féin.",
+        "sentence3": "Tá cultúr físiúil na Gaeltachta chomh bríomhar agus chomh héagsúil agus atá an Ghaeltacht iad féin."
+    },
+    {
+        "label": 2,
+        "sentence1": "Táimid ag súil le coinneáil orainn ag tabhairt tacaíochta do na healaíontóirí seo agus í ag forbairt a gcleachtas, agus ag bualadh leis na glúnta nua d’ealaíontóirí Gaeltachta a bhfuil spreagadh á fháil acu ón dream seo",
+        "sentence2": "Táimid ag súil le coinneáil orainn ag tabhairt tacaíochta do na healaíontóirí seo agus é ag forbairt a gcleachtas, agus ag bualadh leis na glúnta nua d’ealaíontóirí Gaeltachta a bhfuil spreagadh á fháil acu ón dream seo",
+        "sentence3": "Táimid ag súil le coinneáil orainn ag tabhairt tacaíochta do na healaíontóirí seo agus iad ag forbairt a gcleachtas, agus ag bualadh leis na glúnta nua d’ealaíontóirí Gaeltachta a bhfuil spreagadh á fháil acu ón dream seo"
+    },
+    {
+        "label": 1,
+        "sentence1": "Is léargas í an taispeántas seo, ní hamháin ar dhá scór bliain d’ealaín na Gaeltachta, ach dhá scór bliain d’Údarás na Gaeltachta agus dhá scór blianta d’fhuinneamh an phobail a d’éiligh Údarás na Gaeltachta.",
+        "sentence2": "Is léargas é an taispeántas seo, ní hamháin ar dhá scór bliain d’ealaín na Gaeltachta, ach dhá scór bliain d’Údarás na Gaeltachta agus dhá scór blianta d’fhuinneamh an phobail a d’éiligh Údarás na Gaeltachta.",
+        "sentence3": "Is léargas iad an taispeántas seo, ní hamháin ar dhá scór bliain d’ealaín na Gaeltachta, ach dhá scór bliain d’Údarás na Gaeltachta agus dhá scór blianta d’fhuinneamh an phobail a d’éiligh Údarás na Gaeltachta."
+    },
+    {
+        "label": 0,
+        "sentence1": "Scannán uafáis ar bhealach agus scannán ficsin eolaíochta ar bhealach eile, insítear sa scannán nua seo ón stiúrthóir Edgar Wright (Shaun of the Dead, Scott Pilgrim Vs. the World) bean óg atá tógtha le cúrsaí faisin agus í in ann taisteal siar chuig na 1960idí. Níl dáta cinnte eisithe ann go fóill, ach deirtear go mbeidh fáil air i mí Aibreáin.",
+        "sentence2": "Scannán uafáis ar bhealach agus scannán ficsin eolaíochta ar bhealach eile, insítear sa scannán nua seo ón stiúrthóir Edgar Wright (Shaun of the Dead, Scott Pilgrim Vs. the World) bean óg atá tógtha le cúrsaí faisin agus é in ann taisteal siar chuig na 1960idí. Níl dáta cinnte eisithe ann go fóill, ach deirtear go mbeidh fáil air i mí Aibreáin.",
+        "sentence3": "Scannán uafáis ar bhealach agus scannán ficsin eolaíochta ar bhealach eile, insítear sa scannán nua seo ón stiúrthóir Edgar Wright (Shaun of the Dead, Scott Pilgrim Vs. the World) bean óg atá tógtha le cúrsaí faisin agus iad in ann taisteal siar chuig na 1960idí. Níl dáta cinnte eisithe ann go fóill, ach deirtear go mbeidh fáil air i mí Aibreáin."
+    },
+    {
+        "label": 1,
+        "sentence1": "Le cois dhorchacht na scannán Godzilla a stiúir Gareth Edwards agus Michael Dougherty le déanaí, agus an greann a thug an stiúrthóir Jordan Vogt Roberts do Kong: Skull Island, beidh sé suimiúil a fheiceáil cén ton a chuirfidh Adam Wingard ar an gcogadh idir an dá arrachtach. Beidh orainn fanacht go dtí an 20 Bealtaine chun í sin a fheiceáil.",
+        "sentence2": "Le cois dhorchacht na scannán Godzilla a stiúir Gareth Edwards agus Michael Dougherty le déanaí, agus an greann a thug an stiúrthóir Jordan Vogt Roberts do Kong: Skull Island, beidh sé suimiúil a fheiceáil cén ton a chuirfidh Adam Wingard ar an gcogadh idir an dá arrachtach. Beidh orainn fanacht go dtí an 20 Bealtaine chun é sin a fheiceáil.",
+        "sentence3": "Le cois dhorchacht na scannán Godzilla a stiúir Gareth Edwards agus Michael Dougherty le déanaí, agus an greann a thug an stiúrthóir Jordan Vogt Roberts do Kong: Skull Island, beidh sé suimiúil a fheiceáil cén ton a chuirfidh Adam Wingard ar an gcogadh idir an dá arrachtach. Beidh orainn fanacht go dtí an 20 Bealtaine chun iad sin a fheiceáil."
+    },
+    {
+        "label": 1,
+        "sentence1": "Caithfidh gurb í seo an chéad scannán riamh bunaíodh ar shnáithe mearscaipthe, agus beidh fáil air i mí an Mheithimh.",
+        "sentence2": "Caithfidh gurb é seo an chéad scannán riamh bunaíodh ar shnáithe mearscaipthe, agus beidh fáil air i mí an Mheithimh.",
+        "sentence3": "Caithfidh gurb iad seo an chéad scannán riamh bunaíodh ar shnáithe mearscaipthe, agus beidh fáil air i mí an Mheithimh."
+    },
+    {
+        "label": 0,
+        "sentence1": "Cé go mbaineann sé den cuid is mó le saol brónach an amhránaí Mheiriceánaigh, tá fócas mór ar an gciníochas agus an chonspóid a tharraing sí agus í ag iarradh a hamhráin cháiliúil ‘Strange Fruit’ a thaifeadadh.",
+        "sentence2": "Cé go mbaineann sé den cuid is mó le saol brónach an amhránaí Mheiriceánaigh, tá fócas mór ar an gciníochas agus an chonspóid a tharraing sí agus é ag iarradh a hamhráin cháiliúil ‘Strange Fruit’ a thaifeadadh.",
+        "sentence3": "Cé go mbaineann sé den cuid is mó le saol brónach an amhránaí Mheiriceánaigh, tá fócas mór ar an gciníochas agus an chonspóid a tharraing sí agus iad ag iarradh a hamhráin cháiliúil ‘Strange Fruit’ a thaifeadadh."
+    },
+    {
+        "label": 1,
+        "sentence1": "Is maith is cuimhin liom Siobhán Ní Mhuimhneacháin agus í ina cailín ana-óg agus lúibín á rá aici féin is a leathbhádóir ar stáitse ag féile éigin. Ana-lúibín ab ea í faoi sheanrothar a bhí duine amháin ag iarraidh a dhíol le duine eile, ach ná raibh cut ná dealramh air!",
+        "sentence2": "Is maith is cuimhin liom Siobhán Ní Mhuimhneacháin agus í ina cailín ana-óg agus lúibín á rá aici féin is a leathbhádóir ar stáitse ag féile éigin. Ana-lúibín ab ea é faoi sheanrothar a bhí duine amháin ag iarraidh a dhíol le duine eile, ach ná raibh cut ná dealramh air!",
+        "sentence3": "Is maith is cuimhin liom Siobhán Ní Mhuimhneacháin agus í ina cailín ana-óg agus lúibín á rá aici féin is a leathbhádóir ar stáitse ag féile éigin. Ana-lúibín ab ea iad faoi sheanrothar a bhí duine amháin ag iarraidh a dhíol le duine eile, ach ná raibh cut ná dealramh air!"
+    },
+    {
+        "label": 1,
+        "sentence1": "Deir Siobhán go bhfuil sé dian go leor mar leabhar, mar sin nár mhór treoir ón múinteoir, agus gur leabhar í a léifí le chéile sa rang, seachas aige baile leat féin.",
+        "sentence2": "Deir Siobhán go bhfuil sé dian go leor mar leabhar, mar sin nár mhór treoir ón múinteoir, agus gur leabhar é a léifí le chéile sa rang, seachas aige baile leat féin.",
+        "sentence3": "Deir Siobhán go bhfuil sé dian go leor mar leabhar, mar sin nár mhór treoir ón múinteoir, agus gur leabhar iad a léifí le chéile sa rang, seachas aige baile leat féin."
+    },
+    {
+        "label": 2,
+        "sentence1": "Cad í na cinn ina measc a bhfuil ainmfhocal séimhithe ina ndiaidh?",
+        "sentence2": "Cad é na cinn ina measc a bhfuil ainmfhocal séimhithe ina ndiaidh?",
+        "sentence3": "Cad iad na cinn ina measc a bhfuil ainmfhocal séimhithe ina ndiaidh?"
+    },
+    {
+        "label": 2,
+        "sentence1": "Céard í na préamhacha raidiciúla sin?",
+        "sentence2": "Céard é na préamhacha raidiciúla sin?",
+        "sentence3": "Céard iad na préamhacha raidiciúla sin?"
+    },
+    {
+        "label": 2,
+        "sentence1": "Cé hí na gaolta seo?",
+        "sentence2": "Cé hé na gaolta seo?",
+        "sentence3": "Cé hiad na gaolta seo?"
+    },
+    {
+        "label": 0,
+        "sentence1": "Is í an ealaín a thiomáineann an pholaitíocht, ach is í an pholaitíocht cúis na tiomána.",
+        "sentence2": "Is í an ealaín a thiomáineann an pholaitíocht, ach is é an pholaitíocht cúis na tiomána.",
+        "sentence3": "Is í an ealaín a thiomáineann an pholaitíocht, ach is iad an pholaitíocht cúis na tiomána."
+    },
+    {
+        "label": 0,
+        "sentence1": "Is í an fheadóg mhór uirlis Ní Choisdealbha agus is í atá oilte ina bun.",
+        "sentence2": "Is é an fheadóg mhór uirlis Ní Choisdealbha agus is í atá oilte ina bun.",
+        "sentence3": "Is iad an fheadóg mhór uirlis Ní Choisdealbha agus is í atá oilte ina bun."
+    },
+    {
+        "label": 0,
+        "sentence1": "Is í mo mháthair a réitigh gach béile, is í a choinnigh an teach glan.",
+        "sentence2": "Is é mo mháthair a réitigh gach béile, is í a choinnigh an teach glan.",
+        "sentence3": "Is iad mo mháthair a réitigh gach béile, is í a choinnigh an teach glan."
+    },
+    {
+        "label": 0,
+        "sentence1": "Cad í an fhírinne faoin scéal seo?",
+        "sentence2": "Cad é an fhírinne faoin scéal seo?",
+        "sentence3": "Cad iad an fhírinne faoin scéal seo?"
+    },
+    {
+        "label": 0,
+        "sentence1": "Cad í an mhír oibre is mó a thaitníonn leat féin?",
+        "sentence2": "Cad é an mhír oibre is mó a thaitníonn leat féin?",
+        "sentence3": "Cad iad an mhír oibre is mó a thaitníonn leat féin?"
+    },
+    {
+        "label": 0,
+        "sentence1": "Céard í an chuimhne is mó atá agat ar 2014?",
+        "sentence2": "Céard é an chuimhne is mó atá agat ar 2014?",
+        "sentence3": "Céard iad an chuimhne is mó atá agat ar 2014?"
+    },
+    {
+        "label": 1,
+        "sentence1": "Céard í an rún?",
+        "sentence2": "Céard é an rún?",
+        "sentence3": "Céard iad an rún?"
+    },
+    {
+        "label": 1,
+        "sentence1": "Céard í an rud is mó a chuireann eagla ort?",
+        "sentence2": "Céard é an rud is mó a chuireann eagla ort?",
+        "sentence3": "Céard iad an rud is mó a chuireann eagla ort?"
+    },
+    {
+        "label": 1,
+        "sentence1": "Is í dualgas an ealaíontóra an pobal a spreagadh.",
+        "sentence2": "Is é dualgas an ealaíontóra an pobal a spreagadh.",
+        "sentence3": "Is iad dualgas an ealaíontóra an pobal a spreagadh."
+    },
+    {
+        "label": 1,
+        "sentence1": "Is í an crann castán is coitianta sna coillte.",
+        "sentence2": "Is é an crann castán is coitianta sna coillte.",
+        "sentence3": "Is iad an crann castán is coitianta sna coillte."
+    },
+    {
+        "label": 1,
+        "sentence1": "Tá sé soiléir gurb í an suíomh réamhchonsanta (i ndiaidh guta gearr) an timpeallacht is fabhraí do ghuthú gh i stair na Gàidhlige, gurb é an suíomh idirghuthach i ndiaidh guta fada an dara timpeallacht is fabhraí don ghuthú, gurb é an suíomh idirghuthach i ndiaidh guta gearr an tríú timpeallacht is fabhraí don ghuthú, agus gurb é an suíomh deiridh an suíomh is lú is fabhraí don ghuthú.",
+        "sentence2": "Tá sé soiléir gurb é an suíomh réamhchonsanta (i ndiaidh guta gearr) an timpeallacht is fabhraí do ghuthú gh i stair na Gàidhlige, gurb é an suíomh idirghuthach i ndiaidh guta fada an dara timpeallacht is fabhraí don ghuthú, gurb é an suíomh idirghuthach i ndiaidh guta gearr an tríú timpeallacht is fabhraí don ghuthú, agus gurb é an suíomh deiridh an suíomh is lú is fabhraí don ghuthú.",
+        "sentence3": "Tá sé soiléir gurb iad an suíomh réamhchonsanta (i ndiaidh guta gearr) an timpeallacht is fabhraí do ghuthú gh i stair na Gàidhlige, gurb é an suíomh idirghuthach i ndiaidh guta fada an dara timpeallacht is fabhraí don ghuthú, gurb é an suíomh idirghuthach i ndiaidh guta gearr an tríú timpeallacht is fabhraí don ghuthú, agus gurb é an suíomh deiridh an suíomh is lú is fabhraí don ghuthú."
+    },
+    {
+        "label": 2,
+        "sentence1": "Is cosúil gurb í na mná a dhéanann obair throm na feirme thart anseo.",
+        "sentence2": "Is cosúil gurb é na mná a dhéanann obair throm na feirme thart anseo.",
+        "sentence3": "Is cosúil gurb iad na mná a dhéanann obair throm na feirme thart anseo."
+    },
+    {
+        "label": 2,
+        "sentence1": "Sílim gurb í na deilfeanna iad.",
+        "sentence2": "Sílim gurb é na deilfeanna iad.",
+        "sentence3": "Sílim gurb iad na deilfeanna iad."
+    },
+    {
+        "label": 2,
+        "sentence1": "Dúirt Goethe gurbh í na hoilithreachtaí an chéad chéim ar aghaidh i dtreo na hidirnáisiúntachta.",
+        "sentence2": "Dúirt Goethe gurbh é na hoilithreachtaí an chéad chéim ar aghaidh i dtreo na hidirnáisiúntachta.",
+        "sentence3": "Dúirt Goethe gurbh iad na hoilithreachtaí an chéad chéim ar aghaidh i dtreo na hidirnáisiúntachta."
+    },
+    {
+        "label": 2,
+        "sentence1": "Deirtear gurbh í san na focail dheireanacha a dúirt sé.",
+        "sentence2": "Deirtear gurbh é san na focail dheireanacha a dúirt sé.",
+        "sentence3": "Deirtear gurbh iad san na focail dheireanacha a dúirt sé."
+    },
+    {
+        "label": 0,
+        "sentence1": "Ba léir ón gcéad radharc gurbh í an bhean seo máthair Alex.",
+        "sentence2": "Ba léir ón gcéad radharc gurbh é an bhean seo máthair Alex.",
+        "sentence3": "Ba léir ón gcéad radharc gurbh iad an bhean seo máthair Alex."
+    },
+    {
+        "label": 0,
+        "sentence1": "Dá mba vaimpír é, ba dhóigh leis gurbh í seo an chónra a roghnódh sé.",
+        "sentence2": "Dá mba vaimpír é, ba dhóigh leis gurbh é seo an chónra a roghnódh sé.",
+        "sentence3": "Dá mba vaimpír é, ba dhóigh leis gurbh iad seo an chónra a roghnódh sé."
+    },
+    {
+        "label": 0,
+        "sentence1": "B’fhéidir gurbh í an ghaoth a shéid an doras ar oscailt.",
+        "sentence2": "B’fhéidir gurbh é an ghaoth a shéid an doras ar oscailt.",
+        "sentence3": "B’fhéidir gurbh iad an ghaoth a shéid an doras ar oscailt."
+    },
+    {
+        "label": 0,
+        "sentence1": "Ní hí an aimsir amháin faoi deara é, an dtuigeann tú?",
+        "sentence2": "Ní hé an aimsir amháin faoi deara é, an dtuigeann tú?",
+        "sentence3": "Ní hiad an aimsir amháin faoi deara é, an dtuigeann tú?"
+    },
+    {
+        "label": 0,
+        "sentence1": "‘Ní hí an fhoghlaim an fhadhb,’ arsa Marius go cancrach.",
+        "sentence2": "‘Ní hé an fhoghlaim an fhadhb,’ arsa Marius go cancrach.",
+        "sentence3": "‘Ní hiad an fhoghlaim an fhadhb,’ arsa Marius go cancrach."
+    },
+    {
+        "label": 0,
+        "sentence1": "Ní hí sin aidhm an chláir.",
+        "sentence2": "Ní hé sin aidhm an chláir.",
+        "sentence3": "Ní hiad sin aidhm an chláir."
+    },
+    {
+        "label": 2,
+        "sentence1": "Ní hí na focla an teanga, ní hiad na clocha an ailtireacht",
+        "sentence2": "Ní hé na focla an teanga, ní hiad na clocha an ailtireacht",
+        "sentence3": "Ní hiad na focla an teanga, ní hiad na clocha an ailtireacht"
+    },
+    {
+        "label": 2,
+        "sentence1": "Ní hí sin na focail a d’úsáid sí.",
+        "sentence2": "Ní hé sin na focail a d’úsáid sí.",
+        "sentence3": "Ní hiad sin na focail a d’úsáid sí."
+    },
+    {
+        "label": 2,
+        "sentence1": "Ní hí na mná amháin a bhíonn ag seachaint na roc.",
+        "sentence2": "Ní hé na mná amháin a bhíonn ag seachaint na roc.",
+        "sentence3": "Ní hiad na mná amháin a bhíonn ag seachaint na roc."
+    },
+    {
+        "label": 1,
+        "sentence1": "Nach í Mario athair do thriúr leanaí?",
+        "sentence2": "Nach é Mario athair do thriúr leanaí?",
+        "sentence3": "Nach iad Mario athair do thriúr leanaí?"
+    },
+    {
+        "label": 1,
+        "sentence1": "Nach í Myles a bhainfeadh gáire as osréalachas an scéil?",
+        "sentence2": "Nach é Myles a bhainfeadh gáire as osréalachas an scéil?",
+        "sentence3": "Nach iad Myles a bhainfeadh gáire as osréalachas an scéil?"
+    },
+    {
+        "label": 1,
+        "sentence1": "Nach í sin téama a leabhair féin?",
+        "sentence2": "Nach é sin téama a leabhair féin?",
+        "sentence3": "Nach iad sin téama a leabhair féin?"
+    },
+    {
+        "label": 2,
+        "sentence1": "Á, nach í na daoine atá ag éirí dána ar an saol deireanach seo!",
+        "sentence2": "Á, nach é na daoine atá ag éirí dána ar an saol deireanach seo!",
+        "sentence3": "Á, nach iad na daoine atá ag éirí dána ar an saol deireanach seo!"
+    },
+    {
+        "label": 2,
+        "sentence1": "Nach í na tíortha seo a d’fhorbair an teicneolaíocht an chéad lá riamh.",
+        "sentence2": "Nach é na tíortha seo a d’fhorbair an teicneolaíocht an chéad lá riamh.",
+        "sentence3": "Nach iad na tíortha seo a d’fhorbair an teicneolaíocht an chéad lá riamh."
+    },
+    {
+        "label": 0,
+        "sentence1": "Is í an fhadhb nach í an íocshláinte chéanna atá acu.",
+        "sentence2": "Is í an fhadhb nach é an íocshláinte chéanna atá acu.",
+        "sentence3": "Is í an fhadhb nach iad an íocshláinte chéanna atá acu."
+    },
+    {
+        "label": 0,
+        "sentence1": "Agus nach í sin an fhírinne mar a thuigimse í.",
+        "sentence2": "Agus nach í sin an fhírinne mar a thuigimse é.",
+        "sentence3": "Agus nach í sin an fhírinne mar a thuigimse iad."
+    },
+    {
+        "label": 0,
+        "sentence1": "Ba í cistin Aiséirí an t-aon áit a raibh sí ar a suaimhneas.",
+        "sentence2": "Ba é cistin Aiséirí an t-aon áit a raibh sí ar a suaimhneas.",
+        "sentence3": "Ba iad cistin Aiséirí an t-aon áit a raibh sí ar a suaimhneas."
+    },
+    {
+        "label": 0,
+        "sentence1": "Ach, ba í Elisabeth a chuir an tinneas seo air agus í ag gabháil thairis.",
+        "sentence2": "Ach, ba é Elisabeth a chuir an tinneas seo air agus í ag gabháil thairis.",
+        "sentence3": "Ach, ba iad Elisabeth a chuir an tinneas seo air agus í ag gabháil thairis."
+    },
+    {
+        "label": 0,
+        "sentence1": "Ba í an bhean mheánaosta a thug freagra.",
+        "sentence2": "Ba é an bhean mheánaosta a thug freagra.",
+        "sentence3": "Ba iad an bhean mheánaosta a thug freagra."
+    },
+    {
+        "label": 1,
+        "sentence1": "Ba í ‘A’ an geata isteach agus ba é ‘Z’ an mharbhlann.",
+        "sentence2": "Ba é ‘A’ an geata isteach agus ba é ‘Z’ an mharbhlann.",
+        "sentence3": "Ba iad ‘A’ an geata isteach agus ba é ‘Z’ an mharbhlann."
+    },
+    {
+        "label": 1,
+        "sentence1": "Ba í a bhunaigh Ceolfhoireann Cheolchoirmeach an stáisiúin agus ba é príomhstiúrthóir na Ceolfhoirne Siansaí é.",
+        "sentence2": "Ba é a bhunaigh Ceolfhoireann Cheolchoirmeach an stáisiúin agus ba é príomhstiúrthóir na Ceolfhoirne Siansaí é.",
+        "sentence3": "Ba iad a bhunaigh Ceolfhoireann Cheolchoirmeach an stáisiúin agus ba é príomhstiúrthóir na Ceolfhoirne Siansaí é."
+    },
+    {
+        "label": 1,
+        "sentence1": "Ba í an plean a bhí acu go dtiocfadh an dá arm le chéile in Valladolid.",
+        "sentence2": "Ba é an plean a bhí acu go dtiocfadh an dá arm le chéile in Valladolid.",
+        "sentence3": "Ba iad an plean a bhí acu go dtiocfadh an dá arm le chéile in Valladolid."
+    },
+    {
+        "label": 1,
+        "sentence1": "Ba í an Camino Francés a lean mé ar m’aistear féin.",
+        "sentence2": "Ba é an Camino Francés a lean mé ar m’aistear féin.",
+        "sentence3": "Ba iad an Camino Francés a lean mé ar m’aistear féin."
+    },
+    {
+        "label": 2,
+        "sentence1": "Ba í na tráthnónta ba mheasa.",
+        "sentence2": "Ba é na tráthnónta ba mheasa.",
+        "sentence3": "Ba iad na tráthnónta ba mheasa."
+    },
+    {
+        "label": 2,
+        "sentence1": "Ba í na Sínigh ab fhearr ar domhan i mbun bialann dar le Malcolm.",
+        "sentence2": "Ba é na Sínigh ab fhearr ar domhan i mbun bialann dar le Malcolm.",
+        "sentence3": "Ba iad na Sínigh ab fhearr ar domhan i mbun bialann dar le Malcolm."
+    },
+    {
+        "label": 2,
+        "sentence1": "Ba í na bainisteoirí agus na saineolaithe a dhein gach cinneadh.",
+        "sentence2": "Ba é na bainisteoirí agus na saineolaithe a dhein gach cinneadh.",
+        "sentence3": "Ba iad na bainisteoirí agus na saineolaithe a dhein gach cinneadh."
+    },
+    {
+        "label": 0,
+        "sentence1": "Ceist cultúir is ea í,’ arsa mise, ag iarraidh sólás a thabhairt dó.",
+        "sentence2": "Ceist cultúir is ea é,’ arsa mise, ag iarraidh sólás a thabhairt dó.",
+        "sentence3": "Ceist cultúir is ea iad,’ arsa mise, ag iarraidh sólás a thabhairt dó."
+    },
+    {
+        "label": 0,
+        "sentence1": "Bean, agus í cromtha thar thralaí bia agus í ag ithe a sáithe.",
+        "sentence2": "Bean, agus í cromtha thar thralaí bia agus é ag ithe a sáithe.",
+        "sentence3": "Bean, agus í cromtha thar thralaí bia agus iad ag ithe a sáithe."
+    },
+    {
+        "label": 0,
+        "sentence1": "Bhí sí torrach agus í 15; saolaíodh an chéad pháiste aici agus í 16.",
+        "sentence2": "Bhí sí torrach agus í 15; saolaíodh an chéad pháiste aici agus é 16.",
+        "sentence3": "Bhí sí torrach agus í 15; saolaíodh an chéad pháiste aici agus iad 16."
+    },
+    {
+        "label": 0,
+        "sentence1": "Feiceann muid Gráinne agus í in ardghiúmar agus feiceann muid í agus í in ísle brí.",
+        "sentence2": "Feiceann muid Gráinne agus é in ardghiúmar agus feiceann muid í agus í in ísle brí.",
+        "sentence3": "Feiceann muid Gráinne agus iad in ardghiúmar agus feiceann muid í agus í in ísle brí."
+    },
+    {
+        "label": 0,
+        "sentence1": "Agus í ag dul a codladh, chuimhnigh sí ar rud a chuala sí agus í ina dalta fadó agus í ag plé cúrsaí grá agus suirí lena cairde ban.",
+        "sentence2": "Agus í ag dul a codladh, chuimhnigh sí ar rud a chuala sí agus é ina dalta fadó agus í ag plé cúrsaí grá agus suirí lena cairde ban.",
+        "sentence3": "Agus í ag dul a codladh, chuimhnigh sí ar rud a chuala sí agus iad ina dalta fadó agus í ag plé cúrsaí grá agus suirí lena cairde ban."
+    },
+    {
+        "label": 2,
+        "sentence1": "Scaití feiceann tú daoine ag cur strainceanna orthu féin agus í ag gabháil d'amhrán mall agus iad ag gáire agus iad ag gabháil d'amhrán scafánta.",
+        "sentence2": "Scaití feiceann tú daoine ag cur strainceanna orthu féin agus é ag gabháil d'amhrán mall agus iad ag gáire agus iad ag gabháil d'amhrán scafánta.",
+        "sentence3": "Scaití feiceann tú daoine ag cur strainceanna orthu féin agus iad ag gabháil d'amhrán mall agus iad ag gáire agus iad ag gabháil d'amhrán scafánta."
+    },
+    {
+        "label": 2,
+        "sentence1": "Matáin na nguaillí agus an mhuiníl á sracadh agus í ag éirí nimhneach, tinn.",
+        "sentence2": "Matáin na nguaillí agus an mhuiníl á sracadh agus é ag éirí nimhneach, tinn.",
+        "sentence3": "Matáin na nguaillí agus an mhuiníl á sracadh agus iad ag éirí nimhneach, tinn."
+    },
+    {
+        "label": 2,
+        "sentence1": "Aer úr na maidine lán de scréachaíl na muc agus í á gcur chun báis.",
+        "sentence2": "Aer úr na maidine lán de scréachaíl na muc agus é á gcur chun báis.",
+        "sentence3": "Aer úr na maidine lán de scréachaíl na muc agus iad á gcur chun báis."
+    },
+    {
+        "label": 1,
+        "sentence1": "Thug m’athair taitneamh d’adhmad, thug sé taitneamh dó agus í ag fás, agus é á leagan, agus é á scoilteadh.",
+        "sentence2": "Thug m’athair taitneamh d’adhmad, thug sé taitneamh dó agus é ag fás, agus é á leagan, agus é á scoilteadh.",
+        "sentence3": "Thug m’athair taitneamh d’adhmad, thug sé taitneamh dó agus iad ag fás, agus é á leagan, agus é á scoilteadh."
+    },
+    {
+        "label": 1,
+        "sentence1": "Bhí sé go deas te sa chríochfort, agus í damanta fuar amuigh.",
+        "sentence2": "Bhí sé go deas te sa chríochfort, agus é damanta fuar amuigh.",
+        "sentence3": "Bhí sé go deas te sa chríochfort, agus iad damanta fuar amuigh."
+    },
+    {
+        "label": 1,
+        "sentence1": "Gan air ach féar glas agus í bearrtha go talamh ag na caoirigh.",
+        "sentence2": "Gan air ach féar glas agus é bearrtha go talamh ag na caoirigh.",
+        "sentence3": "Gan air ach féar glas agus iad bearrtha go talamh ag na caoirigh."
+    }
+]

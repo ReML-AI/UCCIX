@@ -1,0 +1,998 @@
+[
+    {
+        "ga": "Téigh chuig www.hse.ie/covid19vaccine le tuilleadh eolais a chur ar an vacsaín in aghaidh COVID-19.",
+        "en": "Visit www.hse.ie/covid19vaccine for more information on the COVID-19 vaccine."
+    },
+    {
+        "ga": "An Vacsaín in aghaidh COVID-19",
+        "en": "Covid-19 Vaccine"
+    },
+    {
+        "ga": "Eolas Tábhachtach maidir le Vacsaín AstraZeneca in aghaidh COVID-19, Vaxzevria",
+        "en": "Important Information about the AstraZeneca vaccine, Vaxzevria"
+    },
+    {
+        "ga": "Leagan 9",
+        "en": "Version 9"
+    },
+    {
+        "ga": "15 Meitheamh 2021",
+        "en": "15 June 2021"
+    },
+    {
+        "ga": "Maidir leis an mbileog eolais seo",
+        "en": "About this leaflet"
+    },
+    {
+        "ga": "Sa bhileog seo, tugtar eolas duit faoin vacsaín in aghaidh COVID-19 (coróinvíreas).",
+        "en": "This leaflet tells you about the COVID-19 (coronavirus) vaccine."
+    },
+    {
+        "ga": "Insítear duit:",
+        "en": "It tells you about:"
+    },
+    {
+        "ga": "céard is COVID-19 ann",
+        "en": "what COVID-19 is"
+    },
+    {
+        "ga": "céard í an vacsaín in aghaidh COVID-19",
+        "en": "what the COVID-19 vaccine is"
+    },
+    {
+        "ga": "cé na daoine ar cheart dóibh an vacsaín a fháil",
+        "en": "who should get the vaccine"
+    },
+    {
+        "ga": "cén fáth a bhfuil sé tábhachtach an vacsaín a fháil",
+        "en": "why it is important to get the vaccine"
+    },
+    {
+        "ga": "cé na daoine nár cheart dóibh í a fháil agus cé na daoine ar cheart dóibh an vacsaíniú a chur siar",
+        "en": "who should not get it and who should delay getting it"
+    },
+    {
+        "ga": "sábháilteacht na vacsaíne agus na fo-iarmhairtí",
+        "en": "vaccine safety and side effects"
+    },
+    {
+        "ga": "na háiteanna ar féidir teacht ar a thuilleadh eolais",
+        "en": "where you can get more information"
+    },
+    {
+        "ga": "Léigh an bhileog eolais seo go cúramach.",
+        "en": "Please read this leaflet carefully."
+    },
+    {
+        "ga": "Is féidir leat labhairt le gairmí cúraim sláinte faoin vacsaín freisin – do Dhochtúir Teaghlaigh nó do Chógaiseoir, cuir i gcás.",
+        "en": "You can also talk to a healthcare professional, like your GP (Doctor) or Pharmacist, about the vaccine."
+    },
+    {
+        "ga": "Céard is COVID-19 ann?",
+        "en": "What is COVID-19?"
+    },
+    {
+        "ga": "Is tinneas é COVID-19 a d’fhéadfadh cur isteach ar do scamhóga agus ar d’aerbhealaí, chomh maith le codanna eile de do chorp i gcásanna áirithe.",
+        "en": "COVID-19 is an illness that can affect your lungs and airways, and sometimes other parts of your body."
+    },
+    {
+        "ga": "Víreas darb ainm coróinvíreas is cúis leis.",
+        "en": "It’s caused by a virus called coronavirus."
+    },
+    {
+        "ga": "Tá COVID-19 an-tógálach.",
+        "en": "COVID-19 is highly infectious."
+    },
+    {
+        "ga": "Is tríd an aer a scaiptear é trí na braoiníní a chuirtear amach nuair a bhíonn daoine ag casacht nó ag sraothartach, é sin nó nuair a leagann duine lámh ar dhromchlaí a bhfuil na braoiníní sin orthu agus ansin leagann an lámh chéanna ar a shúile, srón nó béal.",
+        "en": "It spreads through the air through droplets produced when people cough or sneeze, or when they touch surfaces where the droplets have landed and then touch their eyes, nose or mouth."
+    },
+    {
+        "ga": "Is féidir le COVID-19 breoiteacht thromchúiseach a chur ar dhuine, é nó í a chur san ospidéal nó a bheith ina chúis le bás fiú amháin.",
+        "en": "COVID-19 can cause serious illness, hospitalisation and even death."
+    },
+    {
+        "ga": "I measc shiomptóim choitianta COVID-19, tá:",
+        "en": "Common symptoms of COVID-19 include:"
+    },
+    {
+        "ga": "casacht nua – casacht de chineál ar bith, ní gá go mbeadh sí tirim",
+        "en": "a new cough – this can be any kind of cough, not just dry"
+    },
+    {
+        "ga": "giorra anála nó deacrachtaí análaithe",
+        "en": "shortness of breath or breathing difficulties"
+    },
+    {
+        "ga": "caillteanas nó athrú bolaidh nó blaiste – ciallaíonn sé seo go bhfuil sé tugtha faoi deara agat nach féidir leat aon rud a bholadh ná a bhlaiseadh, nó go bhfuil boladh nó blas difriúil air",
+        "en": "loss or change to your sense of smell or taste – this means you’ve noticed you cannot smell or taste anything, or they smell or taste differently"
+    },
+    {
+        "ga": "B’fhéidir nach mbeadh na siomptóim sin ar fad ort nó b’fhéidir nárbh ann ach go mbeifeá ag aireachtáil ní ba mheasa ná mar is gnách.",
+        "en": "You may not have all of these symptoms or you may just feel generally less well than usual."
+    },
+    {
+        "ga": "Uaireanta tógann sé suas le 14 lá sula bhfeictear siomptóim.",
+        "en": "It can take up to 14 days for symptoms to show."
+    },
+    {
+        "ga": "Is féidir leo a bheith cosúil le siomptóim shlaghdáin nó fliú.",
+        "en": "They can be similar to symptoms of cold or flu."
+    },
+    {
+        "ga": "Má tá aon siomptóim COVID-19 ort, déan tú féin a fhéinleithlisiú (fan i do sheomra) agus cuir glao ar Dhochtúir Teaghlaigh.",
+        "en": "If you have any symptoms of COVID-19, self-isolate (stay in your room) and phone a GP (Doctor)."
+    },
+    {
+        "ga": "Beidh sé nó sí in ann tástáil COVID-19 a shocrú duit.",
+        "en": "They can arrange a COVID-19 test for you."
+    },
+    {
+        "ga": "Cé hiad na daoine is mó atá i mbaol COVID-19?",
+        "en": "Who is most at risk from COVID-19?"
+    },
+    {
+        "ga": "Is iad daoine breacaosta agus daoine a bhfuil riochtaí áirithe sláinte orthu cheana féin na daoine is mó atá i mbaol breoiteacht thromchúiseach má tholgann siad COVID-19.",
+        "en": "Older people and people with certain health conditions have a higher risk of getting seriously ill if they get COVID-19."
+    },
+    {
+        "ga": "Céard í an vacsaín in aghaidh COVID-19?",
+        "en": "What is the COVID-19 vaccine?"
+    },
+    {
+        "ga": "Is éard is vacsaín ann ná substaint arb aidhm léi imdhíonacht (cosaint) in aghaidh galar áirithe a fheabhsú.",
+        "en": "A vaccine is a substance that should improve immunity (protection) to a particular disease."
+    },
+    {
+        "ga": "Tabharfaidh an vacsaín in aghaidh COVID-19 cosaint duit ar COVID-19.",
+        "en": "The COVID-19 vaccine will offer you protection from COVID-19."
+    },
+    {
+        "ga": "Má dhéantar vacsaíniú ar dhaoine, ba cheart go laghdófaí líon na ndaoine inár bpobal a éireodh go dona tinn nó a gheobhadh bás fiú le COVID-19.",
+        "en": "If people are vaccinated, it should also reduce the numbers who become seriously ill or even die from COVID-19 in our community."
+    },
+    {
+        "ga": "Múineann vacsaíní do do chóras imdhíonachta cén chaoi tú a chosaint in aghaidh galar.",
+        "en": "Vaccines teach your immune system how to protect you from diseases."
+    },
+    {
+        "ga": "Tá sé i bhfad níos sábháilte do do chóras imdhíonachta an méid sin a fhoghlaim trí vacsaíniú ná trí COVID-19 a tholgadh.",
+        "en": "It is much safer for your immune system to learn how to protect you through vaccination than by getting COVID-19."
+    },
+    {
+        "ga": "Cé na daoine ar cheart dóibh an vacsaín a fháil?",
+        "en": "Who should get the vaccine?"
+    },
+    {
+        "ga": "Is féidir leat teacht ar liosta de na grúpaí atá le vacsaíniú ar an láithreán gréasáin seo: www.gov.ie/covid19vaccine",
+        "en": "You can see the list of groups for vaccination on this website: www.gov.ie/covid19vaccine"
+    },
+    {
+        "ga": "Cé gur fútsa atá sé an cinneadh a dhéanamh cibé acu an vacsaín a fháil nó gan í a fháil, molann FSS, an Eagraíocht Dhomhanda Sláinte agus an Roinn Sláinte go láidir duit í a fháil a luaithe a thairgfear duit í.",
+        "en": "While it is up to you to decide to get the vaccine, the HSE, the World Health Organization and the Department of Health strongly recommend that you do so as soon as it is offered to you."
+    },
+    {
+        "ga": "Tabharfar na vacsaíní do dhaoine de réir mar a thiocfaidh na soláthairtí i dtír in Éirinn.",
+        "en": "Vaccines will be given as the supply arrives in Ireland."
+    },
+    {
+        "ga": "Nuair a thiocfaidh an t-am, cuirfimid in iúl duit cén chaoi an vacsaín a fháil trí fhógraíocht nó trí chuireadh a thabhairt duit go díreach.",
+        "en": "When it’s your turn, we will let you know how to get your vaccine through advertising or direct invitation."
+    },
+    {
+        "ga": "Tá sé tábhachtach nach ndéanfá teagmháil le FSS maidir le vacsaíniú roimhe sin.",
+        "en": "It is important not to contact the HSE for a vaccination before then."
+    },
+    {
+        "ga": "Beidh ort an bhileog seo agus Bileog Eolais an Mhonaróra d’Othair a léamh sula bhfaighidh tú an vacsaín.",
+        "en": "You will need to read this leaflet and the manufacturer’s Patient Information Leaflet before you get the vaccine."
+    },
+    {
+        "ga": "Is féidir leat teacht ar Bhileog Eolais an Mhonaróra d’Othair ar: www.hse.ie/covid19vaccinePIL",
+        "en": "You can find the manufacturer’s Patient Information Leaflet on: www.hse.ie/covid19vaccinePIL"
+    },
+    {
+        "ga": "Is féidir leat labhairt le gairmí cúraim sláinte roimh ré chomh maith.",
+        "en": "You can also talk to a healthcare professional in advance."
+    },
+    {
+        "ga": "Má dhéanann tú an cinneadh an vacsaín a fháil, beidh ort do chead a thabhairt agus cuirfear an cead sin ar taifead.",
+        "en": "If you decide to get the vaccine, you will give your consent, which will be recorded."
+    },
+    {
+        "ga": "Tá an vacsaín á cur ar fáil ag FSS saor in aisce.",
+        "en": "The HSE is offering the vaccine free of charge."
+    },
+    {
+        "ga": "Cén fáth a bhfuil sé tábhachtach an vacsaín a fháil?",
+        "en": "Why is it important to get the COVID-19 vaccine?"
+    },
+    {
+        "ga": "Ba cheart go laghdódh an vacsaín an baol go dtolgfá COVID-19 agus go gcosnódh sí thú in aghaidh na ndeacrachtaí tromchúiseacha a bhaineann leis.",
+        "en": "Getting a COVID-19 vaccine should reduce your risk of getting COVID-19 and protect you from serious complications of the illness."
+    },
+    {
+        "ga": "Tríd an vacsaín a thairiscint don phobal, is é an aidhm atá againn ná daoine a chosaint agus an tinneas agus na básanna arb é an víreas is cúis leo a laghdú.",
+        "en": "Our aim in offering the vaccine to the population is to protect people and reduce the illness and deaths caused by this virus."
+    },
+    {
+        "ga": "Bhí COVID-19 orm cheana, an gá dom an vacsaín a fháil?",
+        "en": "I already had COVID-19, so do I need to get the vaccine?"
+    },
+    {
+        "ga": "Tá.",
+        "en": "Yes."
+    },
+    {
+        "ga": "Fiú má bhí COVID-19 ort cheana féin, d’fhéadfá é a tholgadh arís.",
+        "en": "Even if you have already had COVID-19, you could still get it again."
+    },
+    {
+        "ga": "Laghdóidh an vacsaín an riosca go dtolgfá COVID-19 arís.",
+        "en": "The vaccine will reduce your risk of getting COVID-19 again."
+    },
+    {
+        "ga": "Fiú má tholgann tú COVID-19 arís, táthar ag súil nach mbeadh na siomptóim chomh tromchúiseach céanna mar thoradh ar an vacsaín.",
+        "en": "Even if you do get COVID-19 again, the vaccine can reduce the seriousness of your symptoms."
+    },
+    {
+        "ga": "Tá COVID-19 orm anois, ar cheart dom an vacsaín a fháil?",
+        "en": "I have COVID-19 now, should I get the vaccine?"
+    },
+    {
+        "ga": "Níor cheart.",
+        "en": "No."
+    },
+    {
+        "ga": "Ba cheart duit an vacsaíniú a chur siar go dtí go dtiocfaidh tú chugat féin ó COVID-19.",
+        "en": "You should delay getting vaccinated until you recover from COVID-19."
+    },
+    {
+        "ga": "Fan:",
+        "en": "Do this for:"
+    },
+    {
+        "ga": "ceithre seachtaine ar a laghad tar éis duit na siomptóim a thabhairt faoi deara den chéad uair nó",
+        "en": "at least four weeks after you first notice symptoms or"
+    },
+    {
+        "ga": "ceithre seachtaine tar éis toradh dearfach a fháil ar thástáil le haghaidh COVID-19",
+        "en": "four weeks since you tested positive for COVID-19"
+    },
+    {
+        "ga": "An vacsaín a fháil",
+        "en": "Getting the vaccine"
+    },
+    {
+        "ga": "Cé hé nó cé hí mo vacsaíneoir?",
+        "en": "Who is my vaccinator?"
+    },
+    {
+        "ga": "Is é an vacsaíneoir an duine a thabharfaidh an vacsaín duit.",
+        "en": "Your vaccinator is the person who gives you your vaccine."
+    },
+    {
+        "ga": "Cuireann FSS oiliúint air nó uirthi chun vacsaíní COVID-19 a thabhairt.",
+        "en": "They are trained by the HSE to give COVID-19 vaccines."
+    },
+    {
+        "ga": "An féidir leis an vacsaín COVID-19 a thabhairt duit?",
+        "en": "Can the COVID-19 vaccine give you COVID-19?"
+    },
+    {
+        "ga": "Ní féidir leis an vacsaín in aghaidh COVID-19 COVID-19 a thabhairt duit.",
+        "en": "The COVID-19 vaccine cannot give you COVID-19."
+    },
+    {
+        "ga": "B’fhéidir gur tholg tú COVID-19 sula bhfuair tú an vacsaín agus nár thug tú na siomptóim faoi deara go dtí i ndiaidh do choinne vacsaínithe.",
+        "en": "It is possible to have caught COVID-19 before getting your vaccine and not realise you have the symptoms until after your vaccination appointment."
+    },
+    {
+        "ga": "Mátá aon siomptóim COVID-19 ort, is den ríthábhacht é tú féin a fhéinleithlisiú (fan i do sheomra) agus tástáil saor in aisce a shocrú lena fháil amach an bhfuil COVID-19 ort.",
+        "en": "If you have any symptoms of COVID-19, it is important to self-isolate (stay in your room) and arrange a free test to find out if you have COVID-19."
+    },
+    {
+        "ga": "Mátá fiabhras ort a tháinig ort ní ba mhó ná dhá lá tar éis duit an vacsaín a fháil, nó a mhaireann níos faide ná dhá lá, ba cheart duit tú féin a fhéinleithlisiú agus iarraidh ar Dhochtúir Teaghlaigh tástáil COVID-19 a shocrú duit.",
+        "en": "If you have a fever which starts more than two days after you get the vaccine, or lasts longer than two days, you should self-isolate and ask a GP (Doctor) to arrange a COVID-19 test for you."
+    },
+    {
+        "ga": "Máthagann siomptóim COVID-19 ort tar éis na chéad dáileoige, ní mór duit an dara dáileog a fháil go fóill.",
+        "en": "If you have COVID-19 symptoms after the first dose, you still need to have the second dose."
+    },
+    {
+        "ga": "Cé go bhféadfadh sé go bhfaighfeá cosaint éigin ón gcéad dáileog, is í an dara dáileog a thabharfaidh an chosaint is fearr duit in aghaidh an víris.",
+        "en": "While you may get some protection from the first dose, having the second dose will give you the best protection against the virus."
+    },
+    {
+        "ga": "Ar cheart dom an vacsaín in aghaidh COVID-19 a fháil má tá teocht ard orm?",
+        "en": "Should I get the COVID-19 vaccine if I have a high temperature?"
+    },
+    {
+        "ga": "Ba cheart duit an vacsaíniú a chur siar má tá fiabhras ort (teocht 38 céim Celsius nó níos airde), go dtí go n-aireoidh tú níos fearr.",
+        "en": "You should delay getting the vaccine if you have a fever (temperature of 38 degrees Celsius or above), until you feel better."
+    },
+    {
+        "ga": "Ar cheart dom an vacsaín a fháil má tá mé ag iompar clainne nó i mbun beathú cíche?",
+        "en": "Should I get the vaccine if pregnant or breastfeeding?"
+    },
+    {
+        "ga": "Má tá an chéad dáileog den vacsaín faighte agat agus má tá tú ag beathú cíche, ba cheart duit do dhara dáileog a fháil.",
+        "en": "If you have had your first dose and are breastfeeding, you should get your second dose."
+    },
+    {
+        "ga": "Mátá an chéad dáileog den vacsaín faighte agat agus má tá tú ag iompar clainne, ba cheart duit do dhara dáileog a fháil faoin 36ú seachtain den toircheas más féidir ar chor ar bith é.",
+        "en": "If you have had your first dose and are pregnant, you should get your second dose ideally by 36 completed weeks of pregnancy."
+    },
+    {
+        "ga": "Is mó an baol go mbeadh breoiteacht thromchúiseach ort mura bhfaighfeá an dara dáileog.",
+        "en": "You will be at greater risk of severe illness if you do not get your second dose."
+    },
+    {
+        "ga": "Tá tuilleadh eolais le fáil ar www.hse.ie/covidvacpreg",
+        "en": "More information is available at www.hse.ie/covidvacpreg"
+    },
+    {
+        "ga": "Cén vacsaín atá á tairiscint dom?",
+        "en": "What vaccine am I being offered?"
+    },
+    {
+        "ga": "Tugtar Vaxzevria ar an vacsaín atá á tairiscint againn duit.",
+        "en": "The vaccine we are offering you is called Vaxzevria."
+    },
+    {
+        "ga": "Is é AstraZeneca a dhéanann an vacsaín áirithe seo a mhonarú.",
+        "en": "The vaccine is manufactured by AstraZeneca."
+    },
+    {
+        "ga": "Vacsaín veicteora víreasaigh is ea í, a bhfuil leagan neamhdhíobhálach de víreas eile ann (an veicteoir).",
+        "en": "This viral vector vaccine contains a harmless version of a different virus (the vector)."
+    },
+    {
+        "ga": "Múinfidh sé sin do do chorp cén chaoi próitéin a dhéanamh a spreagfaidh freagairt imdhíonachta ionat.",
+        "en": "This teaches your body how to make a protein that will trigger an immune response."
+    },
+    {
+        "ga": "Ansin tosóidh do chorp ag táirgeadh antasubstaintí, a dhéanfaidh a gcion féin le troid in aghaidh an ionfhabhtaithe má thagann COVID-19 isteach i do chorp amach anseo.",
+        "en": "Your body then makes antibodies that help fight the infection if the COVID-19 virus enters your body in the future."
+    },
+    {
+        "ga": "An bhfuil an vacsaín slán sábháilte?",
+        "en": "Is the vaccine safe?"
+    },
+    {
+        "ga": "Ní úsáideann FSS ach vacsaíní a chomhlíonann na caighdeáin riachtanacha ó thaobh sábháilteachta agus éifeachtúlachta de.",
+        "en": "The HSE only uses vaccines when they meet the required standards of safety and effectiveness."
+    },
+    {
+        "ga": "Cé gur forbraíodh na vacsaíní in aghaidh COVID-19 i bhfad ní ba ghasta ná mar is gnách, chuaigh an vacsaín atá á tairiscint againn duit trí na gnáthchéimeanna uile is gá lena chruthú go bhfuil sí idir shábháilte agus éifeachtach.",
+        "en": "While the work to develop COVID-19 vaccines has moved much faster than usual, the vaccine we are offering you has gone through all the usual steps needed to develop and approve a safe and effective vaccine."
+    },
+    {
+        "ga": "Le húsáid na vacsaíne in aghaidh COVID-19 a cheadú, shásaigh sí na trialacha cliniciúla agus na seiceálacha sábháilteachta go léir nach mór do gach cógas ceadúnaithe eile a shásamh, agus shásaigh amhlaidh de réir caighdeáin idirnáisiúnta sábháilteachta.",
+        "en": "In order to be approved for use, the COVID-19 vaccine went through all the clinical trials and safety checks all other licensed medicines go through, following international standards of safety."
+    },
+    {
+        "ga": "Tugtar Vaxzevria ar an vacsaín atá á tairiscint againn duit agus is é AstraZeneca a dhéanann í a mhonarú.",
+        "en": "The vaccine we are offering you is called Vaxzevria, manufactured by AstraZeneca."
+    },
+    {
+        "ga": "Maidir leis an vacsaín:",
+        "en": "It has:"
+    },
+    {
+        "ga": "Rinneadh í a thástáil ar na mílte daoine mar chuid de thrialacha cliniciúla",
+        "en": "been tested with thousands of people as part of clinical trials"
+    },
+    {
+        "ga": "Shásaigh sí dianchaighdeáin sábháilteachta, cháilíochta agus éifeachtúlachta, agus tá sí formheasta agus ceadaithe ag rialtóirí.",
+        "en": "met strict standards of safety, quality and effectiveness, and been approved and licensed by regulators."
+    },
+    {
+        "ga": "I gcás na hÉireann, is í an Ghníomhaireacht Leigheasra Eorpach an rialtóir – téigh chuig www.ema.europa.eu le tuilleadh eolais a fháil.",
+        "en": "For Ireland, the regulator is the European Medicines Agency (EMA) – visit www.ema.europa.eu for more information."
+    },
+    {
+        "ga": "Cén chaoi a dtugtar an vacsaín in aghaidh COVID-19?",
+        "en": "How is the COVID-19 vaccine given?"
+    },
+    {
+        "ga": "Tugtar an vacsaín mar instealladh isteach in uachtar do ghéige láimhe.",
+        "en": "The COVID-19 vaccine is given as an injection into your upper arm."
+    },
+    {
+        "ga": "Ní thógfaidh sé ach cúpla nóiméad.",
+        "en": "It will only take a few minutes."
+    },
+    {
+        "ga": "Caithfear an dara dáileog a fháil idir 8 seachtaine agus 12 sheachtain tar éis na chéad dáileoige",
+        "en": "Second dose needed between 8 and 12 weeks after the first dose"
+    },
+    {
+        "ga": "Cé mhéad dáileog den vacsaín in aghaidh COVID-19 a bheidh ag teastáil uaim?",
+        "en": "How many doses of the COVID-19 vaccine will I need?"
+    },
+    {
+        "ga": "Beidh dhá dháileog den vacsaín ag teastáil uait le cosaint fhadmharthanach a fháil.",
+        "en": "You will need two doses of the COVID-19 vaccine to get longer lasting protection."
+    },
+    {
+        "ga": "Gheobhaidh tú an dara dáileog idir 8 seachtaine agus 12 sheachtain tar éis na chéad dáileoige.",
+        "en": "You will get the second dose between 8 and 12 weeks after the first dose."
+    },
+    {
+        "ga": "Céard iad na fo-iarmhairtí atá ag dul leis an vacsaín?",
+        "en": "What are the side effects of the vaccine?"
+    },
+    {
+        "ga": "Tá an chuid is mó díobh sin éadrom nó measartha, gearrthéarmach, agus ní fhaigheann gach duine iad.",
+        "en": "Most of these are mild to moderate, short-term, and not everyone gets them."
+    },
+    {
+        "ga": "D’fhéadfadh na fo-iarmhairtí seo a leanas a bheith ar ní ba mhó ná duine amháin as gach deichniúr:",
+        "en": "More than one in 10 people may experience:"
+    },
+    {
+        "ga": "tuirse",
+        "en": "feeling tired"
+    },
+    {
+        "ga": "frithireacht, baill ghorma, pian nó tochas sa ghéag láimhe ar ar tugadh an t-instealladh vacsaíne",
+        "en": "tenderness, bruising, pain or itching in the arm where they had the vaccine injection"
+    },
+    {
+        "ga": "tinneas cinn",
+        "en": "headache"
+    },
+    {
+        "ga": "pian sna matáin",
+        "en": "muscle pain"
+    },
+    {
+        "ga": "pian sna hailt",
+        "en": "joint pain"
+    },
+    {
+        "ga": "samhnas",
+        "en": "nausea"
+    },
+    {
+        "ga": "fiabhras (teocht 38 céim Celsius nó os a chionn)",
+        "en": "fever (temperature of 38 degrees Celsius or above)"
+    },
+    {
+        "ga": "D’fhéadfadh baill dhearga nó at ar láthair an insteallta, buinneach, urlacan nó líon íseal pláitíní san fhuil (nach mbíonn ina chúis le siomptóim) a bheith ann i gcás ní ba mhó ná duine amháin as gach 100 duine.",
+        "en": "More than 1 in 100 people may have redness or swelling where they had the injection, diarrhoea, vomiting or a low platelet count (that doesn’t cause any symptoms)."
+    },
+    {
+        "ga": "D’fhéadfadh goile laghdaithe, meadhrán, tuirse, allas, faireoga limfe ata nó gríos a bheith ann i gcás ní ba mhó ná duine amháin as gach 1000 duine.",
+        "en": "More than 1 in 1000 people may have a reduced appetite, dizziness, sleepiness, sweating, swollen lymph glands or a rash."
+    },
+    {
+        "ga": "Ní fheictear fo-iarmhairtí tromchúiseacha, amhail frithghníomhú trom ailléirgeach, ach go han-annamh, i.e. in thart ar dhuine as gach 100,000.",
+        "en": "Serious side effects, like a severe allergic reaction, are very rare, seen in approximately 1 in 100,000 people."
+    },
+    {
+        "ga": "Tá oiliúint curtha ar do vacsaíneoir le cóir leighis a chur ar othair atá buailte ag frithghníomhuithe troma ailléirgeacha den sórt sin.",
+        "en": "Your vaccinator is trained to treat very rare serious allergic reactions."
+    },
+    {
+        "ga": "I gcásanna an-annamh, d’fhéadfadh téachtáin fola neamhghnácha agus líon íseal pláitíní san fhuil a bheith ann i gcás duine amháin as gach 100,000 duine.",
+        "en": "Very rarely 1 in 100,000 people may develop very unusual blood clots with low platelets."
+    },
+    {
+        "ga": "D’fhéadfadh duine amháin as gach cúigear de na daoine sin bás a fháil.",
+        "en": "1 in 5 of these people may die."
+    },
+    {
+        "ga": "Níl an baol céanna ann go dtuairisceofaí na téachtáin fola seo tar éis an dara dáileog den vacsaín.",
+        "en": "These blood clots are less likely to be reported after the second dose of the vaccine."
+    },
+    {
+        "ga": "Tá baol an reachta an-annamh seo níos airde i measc daoine óga.",
+        "en": "The risk of this very rare condition is higher in younger people."
+    },
+    {
+        "ga": "I líon an-íseal cásanna, tháinig an siondróm sceite ribeadán ar dhaoine tar éis dóibh an vacsaín seo a fháil.",
+        "en": "A very small number of cases of capillary leak syndrome have occured in people after this vaccine."
+    },
+    {
+        "ga": "Is riocht tromchúiseach ach an-annamh é, a bhíonn ina chúis le bás uaireanta.",
+        "en": "It is a serious but very rare condition, and can sometimes be fatal."
+    },
+    {
+        "ga": "Beidh do dhochtúir teaghlaigh, do dhochtúir nó do vacsaíneoir in ann comhairle a chur ort maidir leis na rioscaí agus na buntáistí a bhaineann leis an vacsaín seo.",
+        "en": "Your GP, Doctor or vaccinator can advise you on the risks and benefits of getting this vaccine."
+    },
+    {
+        "ga": "Shásaigh an vacsaín in aghaidh COVID-19 na trialacha cliniciúla agus na seiceálacha sábháilteachta céanna agus nach mór do gach vacsaín cheadúnaithe eile a shásamh, ach is vacsaín nua í mar sin féin agus níl fáil ach ar mhéid teoranta faisnéise maidir leis na fo-iarmhairtí fadtéarmacha.",
+        "en": "The COVID-19 vaccine has gone through the same clinical trials and safety checks as all other licensed vaccines, however the vaccine is new and longterm side effect information is limited."
+    },
+    {
+        "ga": "Mar a gheobhaidh níos mó agus níos mó daoine in Éirinn agus ar fud an domhain an vacsaín seo, glactar leis go mbeidh fáil ar a thuilleadh faisnéise maidir leis na fo-iarmhairtí.",
+        "en": "As more people in Ireland and around the world get this vaccine, more information on side effects may become available."
+    },
+    {
+        "ga": "Nuashonróidh FSS an fhaisnéis ar ár láithreán gréasáin go rialta, agus más gá, nuashonróidh freisin na bileoga eolais a thugtar do dhaoine tráth a bhfuil an chéad nó an dara dáileog den vacsaín á fáil acu.",
+        "en": "The HSE will update this information regularly on our website, and if necessary, will update the information leaflets given to people at their first or second dose of the vaccine."
+    },
+    {
+        "ga": "Siomptóim na dtéachtán fola an-annamh",
+        "en": "Symptoms of very rare blood clots"
+    },
+    {
+        "ga": "Cé go bhfuil riosca na dtéachtán fola agus an lín ísil pláitíní san fhuil an-íseal go deo, ba chóir duit a bheith ar an eolas faoi na comharthaí le bheith ag faire amach dóibh.",
+        "en": "Even though the risk of blood clots with low platelets is extremely low, you should know the signs to watch out for."
+    },
+    {
+        "ga": "Faigh cabhair leighis láithreach bonn má thagann aon cheann de na siomptóim seo ort tar éis an vacsaín Vaxzevria a fháil:",
+        "en": "Get urgent medical help if you get any of these symptoms after the Vaxzevria vaccine:"
+    },
+    {
+        "ga": "Is gnách gur tuairiscíodh na téachtáin fola an-annamh agus an líon íseal pláitíní san fhuil laistigh de 14 lá tar éis na vacsaíne Vaxzevria a fháil.",
+        "en": "The very rare blood clots with low platelets were usually reported within 14 days of getting the Vaxzevria vaccine."
+    },
+    {
+        "ga": "Bí ag faire amach do na siomptóim seo sna seachtainí tar éis do vacsaínithe.",
+        "en": "Watch out for these symptoms in the weeks after your vaccination."
+    },
+    {
+        "ga": "Siomptóim an tsiondróim sceite ribeadán an-annamh",
+        "en": "Symptoms of very rare capillary leak syndrome"
+    },
+    {
+        "ga": "Bíonn an siondróm sceite ribeadán ina chúis le sceitheadh sreabháin ó fhuileadáin bheaga.",
+        "en": "Capillary leak syndrome causes fluid to leak from small blood vessels."
+    },
+    {
+        "ga": "Cé go bhfuil riosca an reachta seo an-íseal go deo, ba chóir duit a bheith ar an eolas faoi na comharthaí le bheith ag faire amach dóibh.",
+        "en": "Even though the risk of the condition is extremely low, you should know the signs to watch out for."
+    },
+    {
+        "ga": "meáchan a chur suas go tobann",
+        "en": "sudden weight gain"
+    },
+    {
+        "ga": "D’fhéadfá mothú lag chomh maith de dheasca brú íseal fola.",
+        "en": "You may also feel faint due to low blood pressure."
+    },
+    {
+        "ga": "Is gnách gur tuairiscíodh siondróm sceite ribeadán laistigh de 4 lá tar éis na vacsaíne Vaxzevria a fháil.",
+        "en": "Capillary leak syndrome was usually reported within 4 days of getting the Vaxzevria vaccine."
+    },
+    {
+        "ga": "Bí ag faire amach do na siomptóim seo sna laethanta tar éis do vacsaínithe.",
+        "en": "Watch out for these symptoms in the days after your vaccination."
+    },
+    {
+        "ga": "Fiabhras tar éis na vacsaíne",
+        "en": "Fever after the vaccine"
+    },
+    {
+        "ga": "Is iomaí duine a dtagann fiabhras air tar éis vacsaín a fháil.",
+        "en": "It’s quite common to develop a fever after a vaccination."
+    },
+    {
+        "ga": "Is iondúil go dtarlaíonn sé sin laistigh de dhá lá (48 uair an chloig) tar éis an vacsaín a fháil, agus imíonn sé laistigh de dhá lá.",
+        "en": "Usually, this happens within two days (48 hours) of getting the vaccine, and it goes away within two days."
+    },
+    {
+        "ga": "Is mó seans go dtiocfaidh fiabhras ort tar éis do chéad dáileoige den vacsaín.",
+        "en": "You are more likely to get a fever after your first dose of the vaccine."
+    },
+    {
+        "ga": "Má airíonn tú míchompordach, tóg paraicéiteamól nó iobúpróifein de réir na dtreoracha ar an mbosca nó ar an mbileoigín eolais.",
+        "en": "If you feel uncomfortable, take paracetamol or ibuprofen as directed on the box or leaflet."
+    },
+    {
+        "ga": "Faigh comhairle leighis má bhíonn imní ort.",
+        "en": "If you are concerned, please seek medical advice."
+    },
+    {
+        "ga": "An bhfuil daoine áirithe ann nár cheart dóibh an vacsaín in aghaidh COVID-19 a fháil?",
+        "en": "Are there some people who should not get the COVID-19 vaccine?"
+    },
+    {
+        "ga": "Níor cheart duit an vacsaín in aghaidh COVID-19 a fháil:",
+        "en": "You should not get the COVID-19 vaccine if:"
+    },
+    {
+        "ga": "má tá tú faoi bhun 50 bliain d’aois. Is mar sin atá toisc go bhfuil riosca an-annamh ann go dtarlódh téachtáin fola nó go mbeadh líon íseal pláitíní san fhuil tar éis an vacsaín a fháil.",
+        "en": "you are under 50 years of age. This is because of the very rare risk of blood clots with low platelets after the vaccine."
+    },
+    {
+        "ga": "Cuirfear vacsaín eile ar fáil duit.",
+        "en": "You will be offered a different vaccine."
+    },
+    {
+        "ga": "má bhí frithghníomhú trom ailléirgeach agat roimhe seo i leith aon cheann de chomhábhair na vacsaíne (polasorbáit 80 ina measc).",
+        "en": "you have had a severe allergic reaction to any of the ingredients in the vaccine (including polysorbate 80)."
+    },
+    {
+        "ga": "Tá liosta na gcomhábhar le fáil i mBileog Eolais an Mhonaróra d’Othair.",
+        "en": "Read the manufacturer’s Patient Information Leaflet to see the list of ingredients."
+    },
+    {
+        "ga": "má bhí frithghníomhú trom ailléirgeach agat tar éis na chéad dáileoige den vacsaín seo.",
+        "en": "you have had a severe allergic reaction to a previous dose of this vaccine."
+    },
+    {
+        "ga": "má bhí téachtáin fola ort agus líon íseal pláitíní san fhuil agat tar éis na chéad dáileoige den vacsaín seo.",
+        "en": "you had blood clots with low platelets after a previous dose of this vaccine."
+    },
+    {
+        "ga": "má bhí siondróm sceite ribeadán ort roimhe seo.",
+        "en": "you have a history of capillary leak syndrome."
+    },
+    {
+        "ga": "Má bhí frithghníomhú trom ailléirgeach agat díreach tar éis aon vacsaín nó teiripe in-insteallta eile a fháil, ba cheart duit labhairt le do Dhochtúir sula bhfaighidh tú an vacsaín in aghaidh COVID-19.",
+        "en": "If you have had an immediate allergic reaction to any other vaccine or injectable therapy, you should talk to your Doctor before getting the COVID-19 vaccine."
+    },
+    {
+        "ga": "Beidh mórchuid na ndaoine in ann an vacsaín a fháil go slán sábháilte.",
+        "en": "Most people will be able to safely get the vaccine."
+    },
+    {
+        "ga": "Beidh an vacsaíneoir lánsásta aon cheist a bheidh agat a fhreagairt duit ag do choinne vacsaínithe.",
+        "en": "The person giving you the vaccine will be happy to answer any questions you have at your appointment for the vaccine."
+    },
+    {
+        "ga": "Tabharfaidh sé nó sí bileog comhairle iarchúraim duit freisin, chomh maith le cárta taifid vacsaínithe ar a mbeidh ainm agus baiscuimhir na vacsaíne a tugadh duit.",
+        "en": "They will also give you an aftercare advice leaflet, and a vaccine record card showing the name and batch number of the vaccine you have been given."
+    },
+    {
+        "ga": "Ar cheart dom an dara dáileog den vacsaín a fháil má tá mé faoi bhun 50 bliain d’aois?",
+        "en": "Should I get a second dose of the vaccine if I am under 50?"
+    },
+    {
+        "ga": "Má tá tú faoi bhun 50 bliain d’aois agus má tá an chéad dáileog den vacsaín faighte agat cheana, ba chóir duit do dhara dáileog a fháil tar éis idir 8 seachtaine agus 12 sheachtain.",
+        "en": "If you are under 50 and have already had your first dose of the vaccine, you should get your second dose between 8 and 12 weeks later."
+    },
+    {
+        "ga": "Cá fhad a thógann sé ar an vacsaín tosú ag obair?",
+        "en": "How long does it take the vaccine to work?"
+    },
+    {
+        "ga": "Ní thosóidh an vacsaín ag obair go ceann 3 seachtaine tar éis na chéad dáileoige.",
+        "en": "It takes 3 weeks, after getting the first dose, for the vaccine to work."
+    },
+    {
+        "ga": "Is fearr a bheidh an chosaint in aghaidh COVID-19 tar éis an dara dáileog, rud ba cheart duit a fháil idir 8 seachtaine agus 12 sheachtain tar éis do chéad dáileoige.",
+        "en": "You will have the best protection from COVID-19 after the second dose, which you should get between 8 and 12 weeks after your first dose."
+    },
+    {
+        "ga": "Tá seans fós ann go dtolgfaidh tú COVID-19 fiú tar éis an vacsaín a fháil.",
+        "en": "There is a chance you might still get Covid-19, even if you have the vaccine."
+    },
+    {
+        "ga": "An oibríonn an vacsaín i ngach duine?",
+        "en": "Does the vaccine work in everyone?"
+    },
+    {
+        "ga": "Tugann vacsaíní idir 2 agus 3 mhilliún duine ar a laghad saor ón mbás gach uile bhliain ar fud na cruinne, agus cosnaíonn siad go leor leor eile ar ghalair a mhaireann ar feadh an tsaoil.",
+        "en": "Worldwide, vaccines save at least 2 to 3 million lives each year, and protect many more from lifelong illnesses."
+    },
+    {
+        "ga": "Tá vacsaíní in aghaidh COVID-19 faighte ag na milliúin daoine ar fud an domhain.",
+        "en": "Millions of people have now received COVID-19 vaccines all over the world."
+    },
+    {
+        "ga": "Tá fianaise láidir, iontaofa ann go laghdaíonn na vacsaíní in aghaidh COVID-19 go mór an riosca go dtolgfá COVID-19.",
+        "en": "There’s strong, reliable evidence that COVID-19 vaccines greatly reduce your risk of getting COVID-19."
+    },
+    {
+        "ga": "Bealach iontach éifeachtach iad le básanna agus breoiteacht thromchúiseach de bharr COVID-19 a chosc.",
+        "en": "They’re highly effective at preventing deaths and serious illness with COVID-19."
+    },
+    {
+        "ga": "Mátá córas lagaithe imdhíonachta agat, níl aon riosca breise ag baint leis an vacsaín, ach b’fhéidir nach n-oibreodh sé chomh maith céanna duitse.",
+        "en": "If you have a weakened immune system, there is no extra risk in taking the vaccine but it may not work as well for you."
+    },
+    {
+        "ga": "Tar éis dom an vacsaín a fháil, an é nach mbeidh mé in ann COVID-19 a scaipeadh ar dhaoine eile?",
+        "en": "When I get the vaccine, does that mean I won’t spread COVID-19 to others?"
+    },
+    {
+        "ga": "Níl a fhios againn go fóill an féidir le daoine vacsaínithe an víreas a scaipeadh ar dhaoine eile.",
+        "en": "We do not know yet if having the vaccine stops you spreading the COVID-19 virus to others."
+    },
+    {
+        "ga": "Sin an fáth a bhfuil sé chomh tábhachtach sin go leanfaimis orainn ag cloí leis an gcomhairle sláinte poiblí le stop a chur le scaipeadh an víris.",
+        "en": "That is why it is important that we all continue to follow public health advice on how to stop the spread of the virus."
+    },
+    {
+        "ga": "Thar aon ní eile, ní mór duit na nithe seo a leanas a dhéanamh go fóill:",
+        "en": "In particular, you still need to:"
+    },
+    {
+        "ga": "do lámha a ní go rialta",
+        "en": "wash your hands regularly"
+    },
+    {
+        "ga": "Cá fhad a mhairfidh an imdhíonacht ón vacsaín?",
+        "en": "How long does immunity last from the vaccine?"
+    },
+    {
+        "ga": "Ní fios go fóill cá fhad a mhairfidh an imdhíonacht.",
+        "en": "We do not know yet how long immunity will last."
+    },
+    {
+        "ga": "Tá trialacha cliniciúla ar bun faoi láthair leis an gceist sin a fhuascailt.",
+        "en": "Clinical trials are ongoing to find this out."
+    },
+    {
+        "ga": "Tuilleadh eolais",
+        "en": "More information"
+    },
+    {
+        "ga": "Léigh Bileog Eolais an Mhonaróra d’Othair le tuilleadh eolais a fháil.",
+        "en": "For more information, read the manufacturer’s Patient Information Leaflet."
+    },
+    {
+        "ga": "Is féidir leat labhairt le gairmí cúraim sláinte faoin vacsaín freisin – do Dhochtúir Teaghlaigh, do Chógaiseoir nó duine de d’fhoireann cúraim sláinte, cuir i gcás.",
+        "en": "You can also talk to a health professional, like your GP (Doctor), Pharmacist or healthcare team."
+    },
+    {
+        "ga": "Cén chaoi ar féidir liom fo-iarmhairtí a thuairisciú?",
+        "en": "How do I report side effects?"
+    },
+    {
+        "ga": "Is é an t-údarás rialála i bPoblacht na hÉireann é maidir le cógais, gairis leighis agus táirgí sláinte eile.",
+        "en": "The HPRA is the regulatory authority in the Republic of Ireland for medicines, medical devices and other health products."
+    },
+    {
+        "ga": "Mar chuid dá ról i monatóireacht a dhéanamh ar chógais ó thaobh sábháilteachta de, oibríonn an tÚdarás córas trínar féidir le gairmithe cúraim sláinte nó baill den phobal aon fhrithghníomhú díobhálach (fo-iarmhairt) amhrasta a bhaineann le cógais agus vacsaíní a tharla in Éirinn a thuairisciú.",
+        "en": "As part of its role in the safety monitoring of medicines, the HPRA operates a system through which healthcare professionals or members of the public can report any suspected adverse reactions (side effects) associated with medicines and vaccines which have occurred in Ireland."
+    },
+    {
+        "ga": "Molann an tÚdarás go láidir go ndéanfaí gach frithghníomhú díobhálach (foiarmhairt) amhrasta a bhaineann le vacsaíní in aghaidh COVID-19 a thuairisciú d’fhonn tacú leis monatóireacht leanúnach a dhéanamh ar a n-úsáid shábháilte, éifeachtach.",
+        "en": "The HPRA strongly encourages reporting of suspected adverse reactions (side effects) associated with Covid-19 vaccines to support continuous monitoring of their safe and effective use."
+    },
+    {
+        "ga": "Is féidir leat iarraidh ar do Dhochtúir nó ar bhall teaghlaigh é sin a thuairisciú thar do cheann freisin.",
+        "en": "You can also ask your Doctor or a family member to report this for you."
+    },
+    {
+        "ga": "Ba cheart a oiread faisnéise agus is eol a chur ar fáil, agus nuair is féidir, ba cheart baiscuimhir na vacsaíne a lua chomh maith.",
+        "en": "As much information as is known should be provided, and where possible, the vaccine batch number should be included."
+    },
+    {
+        "ga": "Ní féidir leis an Údarás comhairle chliniciúil a chur ar fáil maidir le cásanna ar leith.",
+        "en": "The HPRA cannot provide clinical advice on individual cases."
+    },
+    {
+        "ga": "Ba cheart do bhaill an phobail teagmháil a dhéanamh lena ngairmí cúraim sláinte (a nDochtúir nó a gCógaiseoir) má bhíonn aon cheist leighis acu.",
+        "en": "Members of the public should contact their healthcare professional (their Doctor or Pharmacist) with any medical concerns they may have."
+    },
+    {
+        "ga": "Do chuid faisnéise pearsanta",
+        "en": "Your personal information"
+    },
+    {
+        "ga": "Leis an vacsaín a thabhairt do dhaoine ar bhealach slán sábháilte agus leis an bhfaisnéis uile a thaifeadadh is gá le monatóireacht agus bainistíocht a dhéanamh ar an vacsaín, beidh FSS ag próiseáil do chuid faisnéise pearsanta.",
+        "en": "In order to administer the vaccine safely and to record all the necessary information to monitor and manage the vaccine, the HSE will be processing your personal information."
+    },
+    {
+        "ga": "Déanfaidh FSS an fhaisnéis go léir a phróiseáil de réir na ndlíthe ginearálta agus de réir an Rialacháin Ghinearálta maidir le Cosaint Sonraí go háirithe, a tháinig i bhfeidhm in 2018.",
+        "en": "All information processed by the HSE will be in accordance to the general laws and in particular the General Data Protection Regulation (GDPR) which came into force in 2018."
+    },
+    {
+        "ga": "Beidh próiseáil do chuid sonraí idir dhleathach agus chothrom.",
+        "en": "The processing of your data will be lawful and fair."
+    },
+    {
+        "ga": "Ní dhéanfar iad a phróiseáil ach amháin chun críche vacsaíniú a bhainistiú.",
+        "en": "It will only be processed for the specific purpose to manage the vaccinations."
+    },
+    {
+        "ga": "Tá Prionsabal an Íoslaghdaithe Sonraí i bhfeidhm.",
+        "en": "The principle of Data Minimisation has been applied."
+    },
+    {
+        "ga": "Ciallaíonn sé sin nach dtaifeadfar ach na sonraí a bheidh ag teastáil le tú a aithint, do choinne a chur in áirithe, do vacsaíniú a thaifeadadh agus monatóireacht a dhéanamh ar a éifeachtaí.",
+        "en": "This means that only data that is necessary to identify you, book your appointment, record your vaccination and monitor its effects is being recorded."
+    },
+    {
+        "ga": "Mar dhuine is ábhar do shonraí, tá na cearta seo a leanas agat faoin Rialachán Ginearálta maidir le Cosaint Sonraí i leith na sonraí pearsanta agat a dhéantar a phróiseáil.",
+        "en": "You have the following rights as a data subject under the GDPR in respect of your personal data that are processed."
+    },
+    {
+        "ga": "Faisnéis maidir le do shonraí pearsanta agus rochtain orthu a iarraidh (ar a dtugtar ‘iarratas duine ar a s(h)onraí’ de ghnáth).",
+        "en": "Request information on and access to your personal data (commonly known as a ‘data subject access request’)."
+    },
+    {
+        "ga": "Cuirtear ar do chumas leis sin cóip de na sonraí pearsanta atá á gcoinneáil againn maidir leat a fháil agus a chinntiú go bhfuil siad á bpróiseáil de réir an dlí againn.",
+        "en": "This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it."
+    },
+    {
+        "ga": "A iarraidh go ndéanfaí na sonraí pearsanta atá againn maidir leat a cheartú.",
+        "en": "Request correction of the personal data that we hold about you."
+    },
+    {
+        "ga": "Cuirtear ar do chumas leis sin a iarraidh go ndéanfaí aon fhaisnéis neamhiomlán nó mhíchruinn atá againn maidir leat a cheartú.",
+        "en": "This enables you to have any incomplete or inaccurate information we hold about you corrected."
+    },
+    {
+        "ga": "Léirscriosadh do chuid sonraí pearsanta a iarraidh.",
+        "en": "Request erasure of your personal data."
+    },
+    {
+        "ga": "Cuirtear ar do chumas leis sin a iarraidh orainn sonraí pearsanta a scriosadh nó a bhaint i gcás nach mbeidh aon chúis mhaith againn le leanúint lena bpróiseáil.",
+        "en": "This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it."
+    },
+    {
+        "ga": "Tá sé de cheart agat chomh maith iarraidh orainn do chuid faisnéise pearsanta a scriosadh nó a bhaint i gcás gur fheidhmigh tú do cheart le cur i gcoinne a próiseála.",
+        "en": "You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing."
+    },
+    {
+        "ga": "Cur i gcoinne phróiseáil do chuid sonraí pearsanta.",
+        "en": "Object to processing of your personal data."
+    },
+    {
+        "ga": "An Vacsaín in aghaidh COVID-19",
+        "en": "COVID-19 Vaccine"
+    },
+    {
+        "ga": "Eolas Tábhachtach maidir le Vacsaín Pfizer/BioNTech, Comirnaty",
+        "en": "Important Information about the Pfizer/BioNTech vaccine, Comirnaty"
+    },
+    {
+        "ga": "Má dhéanann tú an cinneadh an vacsaín a fháil, beidh ort do chead a thabhairt agus cuirfear an cead sin ar taifead.",
+        "en": "If you decide to get the vaccine, you will give your consent which will be recorded."
+    },
+    {
+        "ga": "Cén fáth a bhfuil sé tábhachtach an vacsaín in aghaidh COVID-19 a fháil?",
+        "en": "Why is it important to get the COVID-19 vaccine?"
+    },
+    {
+        "ga": "An féidir leis an vacsaín in aghaidh COVID-19 COVID-19 a thabhairt duit?",
+        "en": "Can the COVID-19 vaccine give you COVID-19?"
+    },
+    {
+        "ga": "Má tá aon siomptóim COVID-19 ort, is den ríthábhacht é tú féin a fhéinleithlisiú (fan i do sheomra) agus tástáil saor in aisce a shocrú lena fháil amach an bhfuil COVID-19 ort.",
+        "en": "If you have any symptoms of COVID-19, it is important to self-isolate (stay in your room) and arrange a free test to find out if you have COVID-19."
+    },
+    {
+        "ga": "Má tá fiabhras ort a tháinig ort ní ba mhó ná dhá lá tar éis duit an vacsaín a fháil, nó a mhaireann níos faide ná dhá lá, ba cheart duit tú féin a fhéinleithlisiú agus iarraidh ar Dhochtúir Teaghlaigh tástáil COVID-19 a shocrú duit.",
+        "en": "If you have a fever which starts more than two days after you get the vaccine, or lasts longer than two days, you should self-isolate and ask a GP (Doctor) to arrange a COVID-19 test for you."
+    },
+    {
+        "ga": "Má thagann siomptóim COVID-19 ort tar éis na chéad dáileoige, ní mór duit an dara dáileog a fháil go fóill.",
+        "en": "If you have COVID-19 symptoms after the first dose, you still need to have the second dose."
+    },
+    {
+        "ga": "An bhfuil sé sábháilte an vacsaín a fháil má tá tú ag iompar clainne nó i mbun beathú cíche?",
+        "en": "Is it safe to get the vaccine if pregnant or breastfeeding?"
+    },
+    {
+        "ga": "Ní ann d’aon fhianaise a thabharfadh le fios nach bhfuil an vacsaín in aghaidh COVID-19 sábháilte dóibh siúd atá ag iompar clainne.",
+        "en": "There’s no evidence that the COVID-19 vaccine is unsafe if you’re pregnant."
+    },
+    {
+        "ga": "Sna trialacha cliniciúla, níor tástáladh na vacsaíní in aghaidh COVID-19 ar mhná a bhí ag iompar clainne.",
+        "en": "COVID-19 vaccines were not tested on pregnant women in the clinical trials."
+    },
+    {
+        "ga": "Mar sin féin, tá breis agus 100,000 bean torrach tar éis an vacsaín in aghaidh COVID-19 a fháil sna Stáit Aontaithe.",
+        "en": "However, over 100,000 pregnant women in the US have had a COVID-19 vaccine."
+    },
+    {
+        "ga": "Níl aon ní is údar imní ó thaobh sábháilteachta de tagtha chun cinn dóibhsean ná dá leanbh.",
+        "en": "No safety concerns have been identified for them or their babies."
+    },
+    {
+        "ga": "Má tá tú ag iompar clainne, ba cheart duit labhairt le d’Obstatraí nó le do dhochtúir teaghlaigh faoin vacsaín in aghaidh COVID-19 a fháil.",
+        "en": "If you are pregnant, you should talk to your Obstetrician or GP (Doctor) about getting the COVID-19 vaccine."
+    },
+    {
+        "ga": "Is féidir an vacsaín in aghaidh COVID-19 a fháil má tá tú i mbun beathú cíche.",
+        "en": "You can get the COVID-19 vaccine if you are breastfeeding."
+    },
+    {
+        "ga": "Tugtar Comirnaty ar an vacsaín atá á tairiscint againn duit agus is é Pfizer/BioNTech a dhéanann í a mhonarú.",
+        "en": "The vaccine we are offering you is called Comirnaty, manufactured by Pfizer/BioNTech."
+    },
+    {
+        "ga": "Múinfidh an vacsaín mRNA seo do do chorp cén chaoi próitéin a dhéanamh a spreagfaidh freagairt imdhíonachta ionat, gan an víreas beo is cúis le COVID-19 a úsáid.",
+        "en": "This mRNA vaccine teaches your body how to make a protein that will trigger an immune response, without using the live virus that causes COVID-19."
+    },
+    {
+        "ga": "Caithfear an dara dáileog a fháil 28 lá tar éis na chéad dáileoige",
+        "en": "Second dose needed 28 days after first dose"
+    },
+    {
+        "ga": "Beidh dhá dháileog den vacsaín ag teastáil uait leis an gcosaint is fearr a fháil.",
+        "en": "You will need two doses of the COVID-19 vaccine to get the best protection."
+    },
+    {
+        "ga": "Beidh ort an dara dáileog a fháil 28 lá (ceithre seachtaine iomlána) tar éis na chéad dáileoige.",
+        "en": "You need to get the second dose 28 days (four full weeks) after the first dose."
+    },
+    {
+        "ga": "frithireacht nó at sa ghéag láimhe ar ar tugadh an t-instealladh vacsaíne duit",
+        "en": "tenderness or swelling in your arm where you have had the vaccine injection"
+    },
+    {
+        "ga": "buinneach",
+        "en": "diarrhoea"
+    },
+    {
+        "ga": "D’fhéadfadh samhnas, urlacan nó baill dhearga ar láthair an insteallta a bheith ann i gcás ní ba mhó ná duine amháin as gach 100 duine.",
+        "en": "More than 1 in 100 people may develop nausea, vomiting or redness where the vaccine was given."
+    },
+    {
+        "ga": "Tiocfaidh tochas ar níos mó ná duine amháin as gach 1,000 duine ar an láthair ar tugadh an t-instealladh vacsaíne dóibh, tiocfaidh tochas ginearálta nó gríos orthu, éireoidh a bhfaireoga limfe ata nó rachaidh sé deacair orthu dul a chodladh.",
+        "en": "More than 1 in 1,000 people will develop itchiness where the vaccine was given, generalised itchiness, a rash, swelling of the lymph glands or sleeplessness."
+    },
+    {
+        "ga": "Tá Pairilis Bell ina fo-iarmhairt annamh a fheictear i níos mó ná duine as gach 10,000.",
+        "en": "Bell’s palsy is a rare side effect seen in more than 1 in 10,000 people."
+    },
+    {
+        "ga": "I gcásanna annamha, feictear at aghaidhe i ndaoine a bhfuil líontóirí aghaidhe acu.",
+        "en": "Rarely, people who have had facial fillers may develop swelling of their face."
+    },
+    {
+        "ga": "Feictear é sin i níos mó ná duine as gach 10,000.",
+        "en": "This is seen in more than 1 in 10,000 people."
+    },
+    {
+        "ga": "Ní fheictear fo-iarmhairtí tromchúiseacha, amhail frithghníomhú trom ailléirgeach, ach go han-annamh, i.e. in thart ar dhuine as gach 100,000.",
+        "en": "Serious side effects, like a severe allergic reaction, are extremely rare, seen in approximately 1 in 100,000 people."
+    },
+    {
+        "ga": "Shásaigh an vacsaín in aghaidh COVID-19 na trialacha cliniciúla agus na seiceálacha sábháilteachta céanna agus nach mór do gach vacsaín cheadúnaithe eile a shásamh, ach is vacsaín nua í mar sin féin agus níl fáil ach ar mhéid teoranta faisnéise maidir leis na fo-iarmhairtí fadtéarmacha.",
+        "en": "The COVID-19 vaccine has gone through the same clinical trials and safety checks as all other licensed vaccines, however the vaccine is new and long-term side effect information is limited."
+    },
+    {
+        "ga": "Is iondúil go dtarlaíonn sé sin laistigh de dhá lá (48 uair an chloig) tar éis an vacsaín a fháil, agus imíonn sé laistigh de dhá lá.",
+        "en": "Usually, this happens within two days (48 hours) of getting the vaccine, and it goes away within two days."
+    },
+    {
+        "ga": "Is mó seans go dtiocfaidh fiabhras ort tar éis an dara dáileog den vacsaín.",
+        "en": "You are more likely to get a fever after your second dose of the vaccine."
+    },
+    {
+        "ga": "má bhí frithghníomhú trom ailléirgeach agat roimhe seo i leith aon cheann de chomhábhair na vacsaíne (gliocól poileitiléine ina measc).",
+        "en": "you have had a severe allergic reaction to any of the ingredients in the vaccine (including polyethylene glycol)."
+    },
+    {
+        "ga": "má bhí frithghníomhú trom ailléirgeach agat tar éis na chéad dáileoige den vacsaín.",
+        "en": "you have had a severe allergic reaction to a previous dose of the vaccine."
+    },
+    {
+        "ga": "Má bhí frithghníomhú trom ailléirgeach agat díreach i leith aon vacsaíne, teiripe in-insteallta nó polasorbáit 80, ba cheart duit labhairt le do Dhochtúir sula bhfaighidh tú an vacsaín in aghaidh COVID-19.",
+        "en": "If you have had an immediate allergic reaction to any other vaccine, injectable therapy or polysorbate 80, you should talk to your Doctor before getting the COVID-19 vaccine."
+    },
+    {
+        "ga": "Beidh imdhíonacht ag mórchuid na ndaoine tar éis an dá dháileog den vacsaín in aghaidh COVID-19 a fháil.",
+        "en": "After having both doses of the COVID-19 vaccine, most people will have immunity."
+    },
+    {
+        "ga": "Ciallaíonn sé sin go mbeidh siad cosanta in aghaidh COVID-19.",
+        "en": "This means they will be protected against COVID-19."
+    },
+    {
+        "ga": "Tá seans fós ann go dtolgfaidh tú COVID-19 fiú tar éis an vacsaín a fháil.",
+        "en": "There is a chance you might still get COVID-19, even if you have the vaccine."
+    },
+    {
+        "ga": "Má tá córas lagaithe imdhíonachta agat, níl aon riosca breise ag baint leis an vacsaín, ach b’fhéidir nach n-oibreodh sé chomh maith céanna duitse.",
+        "en": "If you have a weakened immune system, there is no extra risk in taking the vaccine but it may not work as well for you."
+    },
+    {
+        "ga": "Molann an tÚdarás go láidir go ndéanfaí gach frithghníomhú díobhálach (foiarmhairt) amhrasta a bhaineann le vacsaíní in aghaidh COVID-19 a thuairisciú d’fhonn tacú leis monatóireacht leanúnach a dhéanamh ar a n-úsáid shábháilte, éifeachtach.",
+        "en": "The HPRA strongly encourages reporting of suspected adverse reactions (side effects) associated with COVID-19 vaccines to support continuous monitoring of their safe and effective use."
+    },
+    {
+        "ga": "Eolas Tábhachtach maidir le Vacsaín Moderna in aghaidh COVID-19",
+        "en": "Important Information about the COVID-19 Vaccine Moderna"
+    },
+    {
+        "ga": "Is féidir leat teacht ar liosta de na grúpaí atá le vacsaíniú ar an láithreán gréasáin: www.gov.ie/covid19vaccine",
+        "en": "You can see the list of groups for vaccination on the website: www.gov.ie/covid19vaccine"
+    },
+    {
+        "ga": "Cé gur fútsa atá sé an cinneadh a dhéanamh cibé acu an vacsaín a fháil nó gan í a fháil, molann FSS, an Eagraíocht Dhomhanda Sláinte agus an Roinn Sláinte go láidir duit í a fháil a luaithe a thairgfear duit í.",
+        "en": "While it is up to you to decide to get the vaccine, the HSE , the World Health Organization and the Department of Health strongly recommend that you do so as soon as it is offered to you."
+    }
+]

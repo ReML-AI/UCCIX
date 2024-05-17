@@ -1,0 +1,19 @@
+dataset_name: irish_sib200
+task: irish_sib200
+dataset_path: Davlan/sib200
+dataset_name: gle_Latn
+output_type: multiple_choice
+fewshot_split: train
+fewshot_delimiter: "\n"
+test_split: test
+description: "Aicmiú topaicí: eolaíocht/teicneolaíocht, taisteal, polaitíocht, spóirt, sláinte, siamsaíocht, tíreolaíocht.\n\n"
+doc_to_text: "Is é an lipéad \"{{text}}\" ná:"
+doc_to_target: !function utils.doc_to_target
+doc_to_choice: ["eolaíocht/teicneolaíocht", "taisteal", "polaitíocht", "spóirt", "sláinte", "siamsaíocht", "tíreolaíocht"]
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 0.0
+  num_fewshot: 10

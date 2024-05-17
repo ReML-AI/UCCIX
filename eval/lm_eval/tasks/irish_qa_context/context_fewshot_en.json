@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Is second level education free in Ireland?",
+        "answer": [
+            "Yes."
+        ],
+        "context": "The majority of post-primary schools in Ireland do not charge fees. Non-fee-paying voluntary secondary schools, community colleges and community schools are all funded on an annual budget by the Department of Education."
+    },
+    {
+        "question": "What is the Leaving Certificate examination grading system?",
+        "answer": [
+            "The Leaving Certificate examination scale has 8 grades from 1 to 8.",
+            "1 to 8"
+        ],
+        "context": "The Leaving Certificate examination scale has 8 grades, the highest grade is Grade 1 and the lowest grade is Grade 8. The 8-point grading scale replaced the 14-point scale at both Higher and Ordinary levels in 2017. Marks between 100% and 30% are divided into seven grade bands (1-7). Each band is 10% wide."
+    },
+    {
+        "question": "What is an exemption from studying Irish?",
+        "answer": [
+            "There are certain criteria that may allow a student to be exempt from studying Irish."
+        ],
+        "context": "Irish is one of the core subjects in the school curriculum in Ireland. All students must study Irish unless they are given an exemption from studying the subject. If you get an exemption, you do not have to study Irish at school. There are specific criteria that allow the exemption in particular circumstances."
+    },
+    {
+        "question": "On what date is Saint Patrick's Day?",
+        "answer": [
+            "The seventeenth of March.",
+            "March 17th.",
+            "17th March."
+        ],
+        "context": "St. Patrick’s Day is celebrated annually on March 17, the anniversary of his death in the fifth century."
+    },
+    {
+        "question": "What is the rose of Tralee International Festival?",
+        "answer": [
+            "The Rose of Tralee International Festival is one of Ireland’s largest and longest running festivals.",
+            "One of Ireland’s largest and longest running festivals."
+        ],
+        "context": "Spiced beef is an Irish delicacy. It is beef cured with salt, brown sugar and spices. It is usually served cold."
+    }
+]

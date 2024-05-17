@@ -1,0 +1,19 @@
+dataset_name: irish_sib200_en_prompt
+task: irish_sib200_en_prompt
+dataset_path: Davlan/sib200
+dataset_name: gle_Latn
+output_type: multiple_choice
+fewshot_split: train
+fewshot_delimiter: "\n"
+test_split: test
+description: "Topic Classification: science/technology, travel, politics, sports, health, entertainment, geography.\n\n"
+doc_to_text: "The label of \"{{text}}\" is:"
+doc_to_target: category
+doc_to_choice: ["science/technology", "travel", "politics", "sports", "health", "entertainment", "geography"]
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 0.0
+  num_fewshot: 10

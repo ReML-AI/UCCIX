@@ -1,0 +1,430 @@
+[
+    {
+        "question": "Cad is mairteoil spíosraithe ann?",
+        "answer": [
+            "Mairteoil leasaithe le salann, siúcra donn agus spíosraí."
+        ],
+        "context": "Delicacy Éireannach is ea mairteoil spíosraithe. Tá sé mairteola leigheas le salann, siúcra donn agus spíosraí. Is iondúil go mbíonn sé fuar."
+    },
+    {
+        "question": "Cad iad roinnt miasa traidisiúnta Éireannacha ar cheart do thurasóirí a thriail?",
+        "answer": [
+            "Stobhach Éireannach, Arán Sóid, Maróg dubh agus bán, Coddle, Barbrack",
+            "Stobhach Éireannach",
+            "Arán Sóid",
+            "Maróg dubh agus bán",
+            "Coddle",
+            "Barbrack"
+        ],
+        "context": "Tá go leor miasa traidisiúnta Éireannacha ann, le cúpla ceann a lua tá Stobhach Éireannach, Arán Soda, maróg dubh agus bán, Coddle, Barmbrack agus go leor eile."
+    },
+    {
+        "question": "An féidir leat insint dom faoi thraidisiún an tae tráthnóna Gaelach?",
+        "answer": [
+            "Rinneadh tae tráthnóna chun an bearna idir lón agus dinnéar a líonadh nuair a d’fhéadfadh go mbeadh ocras ar dhaoine."
+        ],
+        "context": "Tá creidiúnú ag Anna, 7ú Bandiúc Bedfordshire, as Tae Tráthnóna a chumadh. Sa sean-traidisiún Béarla do na huaisle agus na n-uaisle i dtír, de ghnáth ritear príomhbhéile an tráthnóna idir 7 pm agus 8 pm. De réir taifid stairiúla, dúradh go mbeadh an Bandiúc i gcónaí ró-ocras chun maireachtáil chomh fada le haghaidh dinnéir agus thosaigh sé ag iarraidh ar a foireann tae agus bia éadrom a thabhairt chuig a seomraí i lár an tráthnóna, chun na pangs ocrais sin a stopadh."
+    },
+    {
+        "question": "Cad a itheann roinnt bianna bricfeasta coitianta in Éirinn?",
+        "answer": [
+            "Súnna, Ispíní, Pónairí Bácáilte, trátaí grilled, beacáin, Maróg Dubh agus Bán, Uibheacha agus tósta.",
+            "Súnna",
+            "Ispíní",
+            "Pónairí Bácáilte",
+            "Trátaí grilled",
+            "Beacáin",
+            "Maróg Dubh agus Bán",
+            "Uibheacha agus tósta"
+        ],
+        "context": "I measc bricfeasta iomlán na hÉireann tá cuid nó gach ceann díobh seo a leanas: Bagún, ispíní, pónairí bácáilte, uibheacha, beacáin, trátaí grilled, agus b'fhéidir roinnt prátaí bruite fágtha a rinneadh i hash nó i mboilgeog agus squeak. Beidh tósta, im, marmalade, agus go leor tae le n-ól ann freisin."
+    },
+    {
+        "question": "Cad iad roinnt cáiseanna agus táirgí déiríochta Éireannacha a bhfuil tóir orthu?",
+        "answer": [
+            "Caiseal Gorm, Cáis ó Bhaile Átha Cliath, Cáis Mileens, Cáis Chúil Aodha",
+            "Caiseal Gorm",
+            "Cáis ó Bhaile Átha Cliath",
+            "Cáis Mileens",
+            "Cáis Chúil Aodha"
+        ],
+        "context": "Tá cáil ar Éirinn as a cáis agus a táirgí déiríochta den scoth. Ar chuid de na cáiseanna is coitianta tá Caiseal Gorm, Cáis Dubliner, Cáis Mileens, Cáis Chúil Aodha."
+    },
+    {
+        "question": "An bhfuil aon speisialtachtaí nó biatais réigiúnacha in Éirinn?",
+        "answer": [
+            "Tá go leor cócaireachta éagsúla ar fud na hÉireann. Cuimsíonn na miasa bia mara go hiondúil má tá sé gar don chósta nó mairteoil mhór agus iad níos faide intíre."
+        ],
+        "context": "Cuimsíonn ealaín na hÉireann na stíleanna, na traidisiúin agus na hoidis chócaireachta a bhaineann le hoileán na hÉireann. Tá cáil ar Chúige Uladh mar gheall ar a blasanna croíúla agus tuaithe mar shampla seabhac nó stobhach bia mara. Tairgeann Cúige Laighean meascán de chultúir thraidisiúnta agus nua-aimseartha ó chultúir éagsúla, bíonn éagsúlacht speisialtachtaí ag Cúige Mumhan agus bíonn an-tóir ar a bhia mara i gCorcaigh agus faigheann Chonnachta luach saothair an bhia mara úr a fhaightear amach óna chladach."
+    },
+    {
+        "question": "An féidir leat insint dom faoi ról na bprátaí in ealaín na hÉireann?",
+        "answer": [
+            "Bhí prátaí mar bhunús ag go leor miasa Éireannacha agus d’ith na huaisle Angla-Éireannacha agus mais na ndaoine iad araon."
+        ],
+        "context": "Tugadh prátaí isteach san Eoraip agus go hÉirinn ag deireadh an 16ú haois. Tháinig siad chun suntais go tapa mar phríomhbharr bia toisc go raibh siad chomh simplí le plandáil, sroicheann agus cócaireacht."
+    },
+    {
+        "question": "An féidir leat roinnt margaí áitiúla nó féilte bia in Éirinn a mholadh?",
+        "answer": [
+            "Margadh Béarla i gCorcaigh, Margadh na Gaillimhe, Féile Gairdín Luimnigh, Taste of Dublin.",
+            "Margadh Béarla i gCorcaigh",
+            "Margadh na Gaillimhe",
+            "Féile Gairdín Luimnigh",
+            "Taste of Dublin"
+        ],
+        "context": "Tá go leor margaí Éireannacha agus féilte bia ann. Is cuma cá bhfuil tú sa tír, beidh rogha ann duit. Mar shampla tá margadh an Bhéarla i gCorcaigh, margadh na Gaillimhe, Féile Gairdín Luimnigh, Taste of Dublin."
+    },
+    {
+        "question": "Cad is colcannon ann?",
+        "answer": [
+            "Mias prátaí agus cabáiste.",
+            "Cabáiste agus mias prátaí."
+        ],
+        "context": "Is meascán é Colcannon de chabáiste bruite agus mionghearrtha agus prátaí mashed. Tá an focal colcannon díorthaithe ón téarma Gaelach cal ceannann, rud a chiallaíonn \"cabáiste ceannbhán\" — an glasra is coitianta a mheasctar le prátaí sa mhias seo."
+    },
+    {
+        "question": "Cé mhéad stát i Stáit Aontaithe Mheiriceá?",
+        "answer": [
+            "Caoga.",
+            "50."
+        ],
+        "context": "Tá caoga stát i Stáit Aontaithe Mheiriceá."
+    },
+    {
+        "question": "Cén aois a bhí Mozart nuair a fuair sé bás?",
+        "answer": [
+            "Tríocha cúig.",
+            "35."
+        ],
+        "context": "Fuair an cumadóir, Wolfgang Amadeus Mozart, bás ina theach cónaithe i Vín na hOstaire, ar an gcúigiú lá de mhí na Nollag 1791, agus é cúig bliana is tríocha d'aois."
+    },
+    {
+        "question": "Cén bhrí atá leis an saol?",
+        "answer": [
+            "Daichead a dó.",
+            "42."
+        ],
+        "context": "Dar le Douglas Adams, is é daichead a dó brí na beatha."
+    },
+    {
+        "question": "Cé a raibh toghadh mar phríomhaire na hInd sa bhliain 2014?",
+        "answer": [
+            "Narendra Modi."
+        ],
+        "context": "Bhí Narendra Modi, ceannaire an páirtí Bharatiya Janata, toghadh mar phríomhaire na hInd ar an 26ú Bealtaine 2014."
+    },
+    {
+        "question": "Cá bhfuil Cathair na Vatacáine suite?",
+        "answer": [
+            "Isteach I Róimh san Iodáil.",
+            "Róimh san Iodáil.",
+            "Róimh.",
+            "Iodáil."
+        ],
+        "context": "Is tír neamhspleách talamhiata agus cathair-stát laistigh den Róimh, an Iodáil í Cathair na Vatacáine, go hoifigiúil Stát Chathair na Vatacáine."
+    },
+    {
+        "question": "Cad is Fiobróis Chisteach ann?",
+        "answer": [
+            "Is neamhord géiniteach é Fiobróis Chisteach.",
+            "Neamhord géiniteach."
+        ],
+        "context": "Is neamhord géiniteach é Fiobróis Chisteach, ina bhfaigheann na scamhóga agus an córas díleá brúite le mucus."
+    },
+    {
+        "question": "Cad é Feidhmeannacht na Seirbhíse Sláinte (FSS)?",
+        "answer": [
+            "Is é Feidhmeannacht na Seirbhíse Sláinte (FSS) an córas curam sláinte in Éirinn a fhaigheann maoiniú poiblí."
+        ],
+        "context": "Is é Feidhmeannacht na Seirbhíse Sláinte (FSS) an córas curam sláinte in Éirinn a fhaigheann maoiniú poiblí. Tá sé freagrachas seirbhísí sóisialta sláinte agus pearsanta a sholáthar. Tháinig sé I bhfeidhm at an gcéad Eanáir 2005."
+    },
+    {
+        "question": "Cad é an chúis bás is mó in Éirinn?",
+        "answer": [
+            "Is í ailse an chúis bháis is mó in Éirinn.",
+            "Ailse."
+        ],
+        "context": "Is í ailse an chúis bháis is mó in Éirinn ag 31%, leis an galar imshruthaithe mar an dara chúis is mó le 29%."
+    },
+    {
+        "question": "Conas agus cathain a fuair Toirdhealbhach Mac Suibhne bás?",
+        "answer": [
+            "Fuair Toirdhealbhach Mac Suibhne bás ar stailc ocrais ar an gcúigiú lá fichead de Dheireadh Fómhar 1920."
+        ],
+        "context": "Fuair Toirdhealbhach Mac Suibhne, Ard-Mhéara Chorcaí, bás ar an gceathrú lá is seachtó ar stailc ocrais i bPríosún Brixton sa Ríocht Aontaithe, ar an gcúigiú lá fichead de Dheireadh Fómhair 1920."
+    },
+    {
+        "question": "Cén aois a fuair Éamon De Valera bás agus cá bhfuil sé curtha?",
+        "answer": [
+            "D'éag Éamon De Valera ar an naoú lá fichead de Lúnasa 1975, agus tá sé curtha i gCeardlann Ghlas Naíon"
+        ],
+        "context": "D'éag Éamon De Valera ar an naoú lá fichead de Lúnasa 1975, in aois a 92 bliain, agus tá sé curtha i gCeardlann Ghlas Naíon ar an taobh thuaidh de Chathair Bhaile Átha Cliath."
+    },
+    {
+        "question": "Cathain a chuaigh Éire isteach i gComhphobal Eacnamaíochta na hEorpa?",
+        "answer": [
+            "Chuaigh sid insteach ann I 1972.",
+            "1972."
+        ],
+        "context": "Tar éis roinnt blianta ag réiteach agus iarratas roimhe sin, shínigh Éire Conradh Aontachais le dul isteach i gComhphobal Eacnamaíochta na hEorpa (CEE – an tAontas Eorpach nó AE anois) in 1972. D'fhág ballraíocht i gComhphobal Eacnamaíochta na hEorpa, nach é an tOireachtas amháin a dhéanfadh na cinntí maidir le dlíthe sa Stát as sin amach, agus mar sin bhí gá le reifreann chun an Bunreacht a leasú. Reáchtáladh an reifreann an 10 Bealtaine 1972. Vótáil ceathrar as cúigear (83.09% de thoghthóirí) ar son an reifrinn. Tháinig go leor daoine amach le vóta a chaitheamh, 70.3% de thoghthóirí. Chuaigh Éire isteach in CEE ar an 1 Eanáir 1973."
+    },
+    {
+        "question": "Cathain a fuair Pádraig Mac Piarais bás?",
+        "answer": [
+            "Fuair sé bás ar an 3ú Bealtaine 1916.",
+            "3ú Bealtaine 1916.",
+            "1916."
+        ],
+        "context": "Cuireadh Pádraig Mac Piarais chun báis ar an tríú lá de Bhealtaine, 1916."
+    },
+    {
+        "question": "Cathain a rugadh Pádraig Mac Piarais?",
+        "answer": [
+            "Rugadh sé ar an deichiú lá de Mhí na Samhna ocht céad déag seachtó a naoi.",
+            "1879.",
+            "Samhain 1879."
+        ],
+        "context": "Rugadh Pádraig Anraí Mac Piarais ar an deichiú lá de Mhí na Samhna ocht gcéad déag seachtó a naoi."
+    },
+    {
+        "question": "Cathain a osclaíodh Stáisiún Cumhachta Hidrileictreach Ard Na Croise?",
+        "answer": [
+            "Osclaíodh sé in 1929.",
+            "1929."
+        ],
+        "context": "Osclaíodh Stáisiún Cumhachta Hidrileictreach Ard na Croise i 1929."
+    },
+    {
+        "question": "Cathain a bunaíodh an Comhbheartas Talmhaíochta (CBT)?",
+        "answer": [
+            "Bunaíodh CBT in 1962.",
+            "1962."
+        ],
+        "context": "Bunaíodh an Comhbheartas Talmhaíochta in 1962 faoi Chonradh na Róimhe. Ba é cuspóir an Chomhbheartais táirgeadh bia a mhéadú trí phraghsanna ráthaithe a thairiscint d’fheirmeoirí dá gcuid táirgí agus ar an gcaoi sin bheifí in ann an soláthar a bhainistiú. I measc leasuithe móra ó shin i leith tugadh isteach an Aoníocaíocht Feirme, rinneadh díchúpláil ar thacaíocht feirme ó tháirgeadh agus táthar ag díriú anois ar chosaint don chomhshaol agus leas ainmhithe. Níos déanaí anuas faoi athchóirithe 2014-2020 ar an gComhbheartas Talmhaíochta, tá an Scéim Íocaíochta Bunúsaí tagtha in ionad na hAoníocaíochta Feirme. Bhí ról lárnach ag Coimisinéir Talmhaíochta na hEorpa ag an am agus ag an iar-Aire Airgeadais, Ray MacSharry, in 'athchóirithe MacSharry' in 1992. Laghdaíodh tacaíocht praghsanna le hathchóirithe MacSharry d'fhonn díchumadh trádála a laghdú agus tugadh isteach íocaíochtaí díreacha chun feirmeoirí a chúiteamh. In 2016, fuair feirmeoirí na hÉireann €1.2 billiún in íocaíochtaí díreacha agus leithdháileadh €494 milliún le hinfheistiú i bhforbairt na tuaithe ó bhuiséad Chomhbheartas Talmhaíochta an Aontais Eorpaigh."
+    },
+    {
+        "question": "Cathain a bunaíodh Oifig na nOibreacha Poiblí?",
+        "answer": [
+            "Bunaíodh oifig na nOibreacha Poiblí sa bhliain 1831.",
+            "1831."
+        ],
+        "context": "Bunaíodh Oifig na nOibreacha Poiblí (OPW) (nó \"Bord na nOibreacha Poiblí\" mar a thugtaí air) in 1831, trí Acht Parlaiminte: Acht um Leathnú agus Cur Chun Cinn na nOibreacha Poiblí in Éirinn."
+    },
+    {
+        "question": "Cá háit agus cathain a rugadh Éamon De Valera?",
+        "answer": [
+            "Rugadh i Nua-Eabhrac é sa bhliain 1882.",
+            "Nua Eabhrac, 1882.",
+            "Nua-Eabhrac, 1882."
+        ],
+        "context": "Rugadh Éamon De Valera i Manhattan, Nua-Eabhrac, ar an 14 Deireadh Fómhair 1882."
+    },
+    {
+        "question": "Cad iad na dathanna ar brat na hÉirinn?",
+        "answer": [
+            "Glas, bán agus oráiste."
+        ],
+        "context": "Tá bratach na hÉireann comhdhéanta de thrí stríoc ingearacha glas, bán agus oráiste. Is siombail í an glas don reiligiún Críostaí Caitliceach, seasann an t-oráiste don reiligiún Críostaí Protastúnach agus seasann an bán don tsíocháin idir Caitlicigh agus Protastúnaigh."
+    },
+    {
+        "question": "Cad í príomhchathair na hÉireann?",
+        "answer": [
+            "Baile Átha Cliath"
+        ],
+        "context": "Is í Baile Átha Cliath príomhchathair na hÉireann."
+    },
+    {
+        "question": "Cad í príomhchathair Thuaisceart Éireann?",
+        "answer": [
+            "Béal Feirste"
+        ],
+        "context": "Is í Béal Feirste an chathair is mó i dTuaisceart Éireann."
+    },
+    {
+        "question": "Cad í an dara cathair is mó i bPoblacht na hÉireann?",
+        "answer": [
+            "Corcaigh"
+        ],
+        "context": "Is í Corcaigh an dara cathair is mó i bPoblacht na hÉireann?"
+    },
+    {
+        "question": "Cathain a chuuaigh Éire isteach Na Náisiúin Aontaithe?",
+        "answer": [
+            "An ceathrú lá déag de mhí an Nollag 1955.",
+            "1955.",
+            "14ú Nollaig, 1955.",
+            "Nollaig 1955."
+        ],
+        "context": "Ar an gceathrú lá déag de Nollaig 1955, bhí Éire an 63ú ball den NA."
+    },
+    {
+        "question": "Ar shínigh Éire an conradh maidir le toirmeasc ar airm núicléacha?",
+        "answer": [
+            "Shínigh siad."
+        ],
+        "context": "Shínigh Éire an Conradh ar maidir les na hairm phromhaidh agus núicléacha (TPNW) Bhí sé I measc an  50 stáit bunaidh a bhí páirteach sa chonradh  nuair a tháinig siad I bhfeidhm ar an 22ú d'Eanair 2021."
+    },
+    {
+        "question": "Cé mhéad Laureate Síochána Nobel a tháinig as Éirinn?",
+        "answer": [
+            "Cúigear, triúr as Poblacht na hÉireann agus beirt as Tuaisceart Éireann.",
+            "Cúigear.",
+            "5."
+        ],
+        "context": "Tháinig cúigear Laureate Síochána Nobel as Éirinn, tháinig triúr as Poblacht na hÉirinn agus beirt as Tuaisceart na hÉirinn."
+    },
+    {
+        "question": "Cad é ainmneacha de na dhá Tithe den Oireachtas?",
+        "answer": [
+            "Dáil Éireann agus an tSeanad Éireann. "
+        ],
+        "context": "Tá an tOireachtas comhdéanta d'uachtarán na hÉireann, agus dá theach an Oireachtais (Gaeilge: deachú an Oireachtais), Dáil Éireann (an teach íochtair) agus Seanad Éireann (an teach íochtair). Suíonn tithe an Oireachtais I dTeach Laighean I mBaile Átha Cliath."
+    },
+    {
+        "question": "Cad é an áitribh oifigiúl tUachtaráin na hÉireann?",
+        "answer": [
+            "Áras an Uachtaráin."
+        ],
+        "context": "Is é tÁras an Uachtaráin, i Páirc an Fhionnuisce, Baile Átha Cliath, áitribh oifigiúl Uachtarán na hÉireann."
+    },
+    {
+        "question": "Cad é an cúirte is airde in Éireann?",
+        "answer": [
+            "Cúirt Uachtarach na hÉireann"
+        ],
+        "context": "Is é an Chúirt Uachtarach an cúirte is airde in Éirinn agus an cúirt na n-achomharc deiridh. Bunaídh é go hoifigíúl ar an 29 Méan Fomhair 1961, faoi théarmaí Article 34 atá comhdhéanta de bhunreacht na hÉireann."
+    },
+    {
+        "question": "Cén fheidhm atá ag Comhairle Ealaíon na hÉireann?",
+        "answer": [
+            "Na healaíona ag an leibhéal áitiúil a fhorbairt, a thacú, a chur chun cinn agus a chomhordú."
+        ],
+        "context": "Is é feidhm na comhairle ealaíon in Éirinn na chun suim an phobail sna healaíona a spreagadh; eolas, léirthuiscint agus cleachtas ar na healaíona a chur chun cinn; cabhrú le caighdeáin sna healaíona a fheabhsú; comhairle a chur ar an Aire ar chomhlachtaí poiblí eile maidir leis na healaíona."
+    },
+    {
+        "question": "Ainmnigh an t-údar Éireannach a scríobh an t-úrscéal cáiliúil \"Ulysses\"?",
+        "answer": [
+            "James Joyce."
+        ],
+        "context": "Is é James Joyce an t-údar Éireanach a scríobh an t-úrscéal cáiliúil \"Ulysses\"."
+    },
+    {
+        "question": "Cad é an t-oileán is mó amach ó chósta na hÉireann?",
+        "answer": [
+            "Oileán Acla."
+        ],
+        "context": "Is é Oileán Acla an tOileán is mó agus tá sé suite amach ó chósta Mhaigh Eo."
+    },
+    {
+        "question": "Cad é an loch is mó in Éirinn?",
+        "answer": [
+            "Loch nEathach"
+        ],
+        "context": "Is é Loch nEathach an loch is mó in oileán na hÉireann agus go deimhin na hOileáin Bhriotanacha ar fad ach is é Loch Coirib an loch is mó i bPoblacht na hÉireann."
+    },
+    {
+        "question": "Cad é an t-aigéan is mó ar domhan?",
+        "answer": [
+            "An tAigéan Ciúin."
+        ],
+        "context": "Is é an tAigéan Ciúin an t-aigéan is mó ar domhan, a chlúdaíonn thart ar 28% de dhromchla na talún an Domhain agus 46% de dhromchla na mara."
+    },
+    {
+        "question": "Cén t-aigéan atá suite amach ó chósta thiar na hÉireann?",
+        "answer": [
+            "An tAigéan Atlantach"
+        ],
+        "context": "Tá an tAigéan Atlantach suite amach ó chósta thiar na hÉireann."
+    },
+    {
+        "question": "Cad iad na crainn atá dúchasacha do Éire?",
+        "answer": [
+            "Dair, fuinseog, coll, beith, péine Albanach, caorann agus saileach"
+        ],
+        "context": "Is crainn dhúchasacha na hÉireann iad an dair, an fhuinseog, an coll, an beith, an péine Albanach, an caorann agus an saileach."
+    },
+    {
+        "question": "Cé mhéad uair a bhunaigh Éire an Comórtas Amhrán Eorafíse?",
+        "answer": [
+            "7 uair.",
+            "Seacht n-uaire.",
+            "Seacht.",
+            "7"
+        ],
+        "context": "Bhuaigh Éire an Comórtas Amhrán Eoraifíse seacht n-uaire, san áireamh trí bhua as a chéile. Tá an taifead is mó buaite ag Éire."
+    },
+    {
+        "question": "Cad é an reiligiún is mó in Éirinn?",
+        "answer": [
+            "Caitlicigh Rómhánacha."
+        ],
+        "context": "De réir dhaonáireamh 2016, is Caitlicigh Rómhánacha 78 faoin gcéad de dhaonra na hÉireann."
+    },
+    {
+        "question": "Cad é an t-ainm ceimiceach ar mheirge?",
+        "answer": [
+            "Ocsaíd iarainn."
+        ],
+        "context": "Is é meirge ainm coitianta an cheimiceáin ar a dtugtar ocsaíd iarainn, a fhoirmítear trí imoibriú iarainn agus ocsaigine i láthair uisce nó taise aeir."
+    },
+    {
+        "question": "Cad é an t-ainm ceimiceach ar shalann boird?",
+        "answer": [
+            "Clóiríd Sóidiam."
+        ],
+        "context": "Is é Clóiríd Sóidiam an t-ainm ceimiceach ar shalann boird."
+    },
+    {
+        "question": "Cad iad na fionnachtana is tábhachtaí a rinne Albert Einstein?",
+        "answer": [
+            "An Éifeacht Fhótaileictreach agus Quanta an tSolais, Coibhneasacht Speisialta agus Ginearálta."
+        ],
+        "context": "Fisicí agus matamaiticeoir ab ea Albert Einstein. I measc na bhfionnachtana is tábhachtaí atá aige tá an Éifeacht Fhótaileictreach agus Quanta an tSolais, Coibhneasacht Speisialta agus Ginearálta. Tá clú agus cáil air mar gheall ar a fhoirmle coibhéise ollfhuinnimh, E cothrom le M times C cearnógach, áit a léiríonn C luas an tsolais."
+    },
+    {
+        "question": "Cé a d'aimsigh struchtúr dúbailte helix DNA agus cén bhliain inar aimsigh siad é?",
+        "answer": [
+            "James Watson agus Francis Crick."
+        ],
+        "context": "D'fhionn James Watson agus Francis Crick struchtúr dúbailte helix DNA i 1953, le cabhair ó bhithfhisiceoirí Rosalind Franklin agus Maurice Wilkins."
+    },
+    {
+        "question": "Céard is uimhir PSP ann?",
+        "answer": [
+            "Uimhir, uathúil do dhuine aonair, a úsáidtear chun rochtain a fháil ar sheirbhísí sóisialta in Éirinn."
+        ],
+        "context": "Is uimhir thagartha uathúil í uimhir Phearsanta Seirbhíse Poiblí (PSP) (ar a dtugtar UPSP uaireanta) a chabhraíonn le duine rochtain a fháil ar shochair leasa shóisialaigh, ar sheirbhísí poiblí agus ar fhaisnéis in Éirinn."
+    },
+    {
+        "question": "Cén contae a bhuaigh Craobh Shinsir Peile na hÉireann in 2015?",
+        "answer": [
+            "Baile Átha Cliath."
+        ],
+        "context": "Bhuaigh Áth Cliath Craobh Shinsir Peile na hÉireann in 2015. Bhí Áth Cliath díbeartha ag cosaint sheaimpíní Chiarraí sa chluiche ceannais, iad ag buachan 0-12 in aghaidh 0-9."
+    },
+    {
+        "question": "Cén cúige Éireannach a bhuaigh an chraobh is mó i gCorn na Seaimpíní san Eoraip sa Rugbaí?",
+        "answer": [
+            "Cúige Laighean."
+        ],
+        "context": "Tá an chraobh buaite ceithre huaire ag Cúige Laighean, níos mó ná aon chúige eile."
+    },
+    {
+        "question": "Cén contae is mó a bhfuil Craobh Shinsir Camógaíochta na hÉireann buaite aige?",
+        "answer": [
+            "Tá Craobh Shinsir Camógaíochta na hÉireann buaite ag Corcaigh an t-am is mó.",
+            "Corcaigh.",
+            "Contae Corcaigh."
+        ],
+        "context": "Tá Craobh Shinsir Camógaíochta na hÉireann buaite ag Corcaigh an uair is mó le hocht gcinn is fiche."
+    },
+    {
+        "question": "Cé mhéad duine in Éirinn a imríonn CLG?",
+        "answer": [
+            "511,500",
+            "511500"
+        ],
+        "context": "In Éirinn, tá 32 Bord Contae le 1,615 Club CLG agus 511,500 ball cláraithe ar fud oileán na hÉireann."
+    }
+]

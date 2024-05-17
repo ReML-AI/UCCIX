@@ -1,0 +1,31 @@
+group:
+  - gaHealth
+task: gaHealth_en2ga
+dataset_path: json
+dataset_kwargs:
+  data_files:
+    validation: lm_eval/tasks/irish_gaHealth/test.en2ga.json
+    fewshot: lm_eval/tasks/irish_gaHealth/dev.json
+dataset_name: gaHealth_en2ga
+validation_split: validation
+fewshot_split: fewshot
+fewshot_delimiter: "\n"
+output_type: generate_until
+description: "Aistrigh Béarla go Gaeilge:\n\n"
+doc_to_text: "Béarla: {{en}}\nGaeilge:"
+doc_to_target: "{{ga}}"
+generation_kwargs:
+  until:
+    - "\n"
+    - "\\n"
+  do_sample: false
+  temperature: 0.0
+metric_list:
+  - metric: !function metrics.bleu
+    aggregation: !function metrics.agg_bleu
+    higher_is_better: true
+  - metric: !function metrics.ter
+    aggregation: !function metrics.agg_ter
+    higher_is_better: true
+metadata:
+  version: 1.0

@@ -1,0 +1,49 @@
+group:
+  - irish_qas_context
+task: irish_qa_context
+dataset_name: irish_qa_context
+dataset_path: json
+dataset_kwargs:
+  data_files:
+    validation: lm_eval/tasks/irish_qa_context/context_test.json
+    fewshot: lm_eval/tasks/irish_qa_context/context_fewshot.json
+output_type: generate_until
+fewshot_split: fewshot
+validation_split: validation
+description: "Sliocht eolas as an gcomhthéacs chun an cheist a fhreagairt:\n\n"
+doc_to_text: "Comhthéacs: {{context}}\nCeist: {{question}}\nFreagra:"
+doc_to_target: "{{answer}}" # TODO: should be multi-target
+fewshot_delimiter: "\n\n"
+generation_kwargs:
+  until:
+    - "\n"
+    - "."
+    - ","
+    - "\\n"
+  do_sample: false
+  temperature: 0.0
+filter_list:
+  - name: remove_whitespace
+    filter:
+      - function: remove_whitespace
+      - function: take_first
+target_delimiter: " "
+process_results: !function metrics.process_results_gen
+metric_list:
+  - metric: bleu
+    aggregation: mean
+    higher_is_better: true
+  - metric: rouge1
+    aggregation: mean
+    higher_is_better: true
+  - metric: rouge2
+    aggregation: mean
+    higher_is_better: true
+  - metric: rougeL
+    aggregation: mean
+    higher_is_better: true
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 3.0

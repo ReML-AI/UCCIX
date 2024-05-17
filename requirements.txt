@@ -1,0 +1,13 @@
+torch==2.1.2
+datasets==2.18.0
+tensorboardX
+loguru
+nltk
+seqeval
+deepspeed==0.13.3
+sentencepiece
+transformers==4.36.2
+peft==0.7.1
+numpy==1.23.0
+scikit-learn
+wandb
