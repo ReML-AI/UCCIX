@@ -193,7 +193,6 @@ class CustomSampler(torch.utils.data.Sampler):
     def __iter__(self):
         indices = np.random.permutation(self.indices[self.n:])
         indices = self.indices[:self.n] + list(indices)
-        print("INDICES: ", indices[0], indices[1], indices[-1], indices[100_000])
         return iter(indices)
 
     def __len__(self):

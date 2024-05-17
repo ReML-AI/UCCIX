@@ -1,9 +1,9 @@
 # UCCIX: Irish-eXcellence Large Language Model
 
 ## Overview
->The development of Large Language Models (LLMs) has predominantly focused on high-resource languages, leaving extremely low-resource languages like Irish with limited representation. This work presents \ourmodel{}, a pioneering effort on the development of an open-source Irish-based LLM. We propose a novel framework for continued pre-training of LLMs specifically adapted for extremely low-resource languages, requiring only a fraction of the textual data typically needed for training LLMs according to scaling laws. Our model, based on Llama 2-13B, outperforms much larger models on Irish language tasks with up to 12% performance improvement, showcasing the effectiveness and efficiency of our approach. We also contribute comprehensive Irish benchmarking datasets, including IrishQA, a question-answering dataset, and Irish version of MT-bench. These datasets enable rigorous evaluation and facilitate future research in Irish LLM systems. Our work aims to preserve and promote the Irish language, knowledge, and culture of Ireland in the digital era while providing a framework for adapting LLMs to other indigenous languages.
+>The development of Large Language Models (LLMs) has predominantly focused on high-resource languages, leaving extremely low-resource languages like Irish with limited representation. This work presents UCCIX, a pioneering effort on the development of an open-source Irish-based LLM. We propose a novel framework for continued pre-training of LLMs specifically adapted for extremely low-resource languages, requiring only a fraction of the textual data typically needed for training LLMs according to scaling laws. Our model, based on Llama 2-13B, outperforms much larger models on Irish language tasks with up to 12% performance improvement, showcasing the effectiveness and efficiency of our approach. We also contribute comprehensive Irish benchmarking datasets, including IrishQA, a question-answering dataset, and Irish version of MT-bench. These datasets enable rigorous evaluation and facilitate future research in Irish LLM systems. Our work aims to preserve and promote the Irish language, knowledge, and culture of Ireland in the digital era while providing a framework for adapting LLMs to other indigenous languages.
 
-## About This implementation
+## About This Implementation
 Our implementations support the following features:
 - Extending tokenizer's vocabulary to support languages unseen by the original tokenizer.
 - Continued pre-training on the target language data, with different strategies: full-finetuning, LoRA, etc.
@@ -96,7 +96,7 @@ torchrun --nnodes 1 --nproc_per_node 6 --master_port 29502 ./scripts/lang_adapt/
 
 ```
 
-Additionally, you can also set `use_peft=True` to train with parameter efficient fine-tuning techniques, such as LoRA, (IA)^3, etc.
+Additionally, you can also set `use_peft=True` to train with parameter efficient fine-tuning techniques, such as LoRA, (IA)^3, etc. (used in preliminary experiments).
 
 ## Evaluation
 We adopt the [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) framework by EleutherAI for evaluating models on Irish language tasks.
@@ -108,7 +108,7 @@ cd eval
 pip install -e .
 ```
 
-### Evaluation on Irish language tasks
+### Evaluation on Irish Language Tasks
 The raw data are available in `lm_eval/tasks/{irish_cloze,irish_qa_context,irish_sib200,irish_gaHealth}`.
 
 Please reference the original framework for more customization.
@@ -117,16 +117,24 @@ The following scripts can be used to run evaluation on all Irish tasks:
 m=... # path to model
 
 # IrishQA (Ours):
-lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks irish_qas_context --num_fewshot 5 --output_path output/temp --log_samples --device cuda:0 --wandb_args project=irish_llm_evaluation
+lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks irish_qas_context \
+        --num_fewshot 5 --output_path output/temp --log_samples \
+        --device cuda:0 --wandb_args project=irish_llm_evaluation
 
 # SIB200 (Irish subset):
-lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks irish_sib200 --output_path output/temp --log_samples --device cuda:0 --wandb_args project=irish_llm_evaluation --num_fewshot 10
+lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks irish_sib200 \
+        --output_path output/temp --log_samples \
+        --device cuda:0 --wandb_args project=irish_llm_evaluation --num_fewshot 10
 
 # Cloze Test:
-lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks irish_cloze --num_fewshot 0 --log_samples --device cuda:0 --output_path output/temp --wandb_args project=irish_llm_evaluation
+lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks irish_cloze \
+        --num_fewshot 0 --log_samples \
+        --device cuda:0 --output_path output/temp --wandb_args project=irish_llm_evaluation
 
 # gaHealth:
-lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks gaHealth --num_fewshot 5 --output_path output/temp --log_samples --device cuda:0 --wandb_args project=irish_llm_evaluation
+lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks gaHealth \
+        --num_fewshot 5 --output_path output/temp \
+        --log_samples --device cuda:0 --wandb_args project=irish_llm_evaluation
 ```
 
 ## Citation
