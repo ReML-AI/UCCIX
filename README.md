@@ -1,12 +1,20 @@
 # UCCIX: Irish-eXcellence Large Language Model
+This repository hosts the codes for reproducing our Irish-based Large Language Models.
+
+Check out our papers:
+- [UCCIX: Irish-eXcellence Large Language Model](https://arxiv.org/abs/2405.13010)
+- Irish-based Large Language Model with Extreme Low-Resource Settings in Machine Translation, LoResMT 2024, ACL2024
 
 ## Overview
 >The development of Large Language Models (LLMs) has predominantly focused on high-resource languages, leaving extremely low-resource languages like Irish with limited representation. This work presents UCCIX, a pioneering effort on the development of an open-source Irish-based LLM. We propose a novel framework for continued pre-training of LLMs specifically adapted for extremely low-resource languages, requiring only a fraction of the textual data typically needed for training LLMs according to scaling laws. Our model, based on Llama 2-13B, outperforms much larger models on Irish language tasks with up to 12% performance improvement, showcasing the effectiveness and efficiency of our approach. We also contribute comprehensive Irish benchmarking datasets, including IrishQA, a question-answering dataset, and Irish version of MT-bench. These datasets enable rigorous evaluation and facilitate future research in Irish LLM systems. Our work aims to preserve and promote the Irish language, knowledge, and culture of Ireland in the digital era while providing a framework for adapting LLMs to other indigenous languages.
+
+> Large Language Models (LLMs) have demonstrated exceptional performances in a wide range of natural language processing tasks. However, their success does not always extend to machine translation, particularly in challenging scenarios such as translating low-resource languages. This study investigates the multilingual capability of LLMs, with a case study on Irish, an extremely low-resource language, focusing on translation tasks between English and Irish. We propose a dynamic, efficient language adaptation framework for English-centric LLMs, which involves layer-specific adjustments and subsequent fine-tuning for machine translation. Our findings highlight several key insights: (1) different layers in the LLM serve distinct functions such as language understanding and task reasoning, (2) effective translation requires extensive pre-training on both source and target languages, and (3) targeted fine-tuning for machine translation leads to significant improvements of 36.7% for English to Irish and 133.4% for Irish to English compared to the previous state-of-the-art.
 
 ## About This Implementation
 Our implementations support the following features:
 - Extending tokenizer's vocabulary to support languages unseen by the original tokenizer.
 - Continued pre-training on the target language data, with different strategies: full-finetuning, LoRA, etc.
+- Our framework for dynamic and efficient language adaptation.
 - Data mixture and scheduler, that allows the use of parallel data.
 
 ## Requirements and Installation
@@ -96,6 +104,8 @@ torchrun --nnodes 1 --nproc_per_node 6 --master_port 29502 ./scripts/lang_adapt/
 
 ```
 
+To perform continued pre-training with our dynamic adaptation framework, you can set `langdeplay=Default`, or `langdeplay=Revert` for the ablation study with fine-tuning reasoning layers.
+
 Additionally, you can also set `use_peft=True` to train with parameter efficient fine-tuning techniques, such as LoRA, (IA)^3, etc. (used in preliminary experiments).
 
 ## Evaluation
@@ -131,7 +141,7 @@ lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks irish_cl
         --num_fewshot 0 --log_samples \
         --device cuda:0 --output_path output/temp --wandb_args project=irish_llm_evaluation
 
-# gaHealth:
+# LoResMT:
 lm_eval --model hf --model_args pretrained=${m},dtype="float16" --tasks gaHealth \
         --num_fewshot 5 --output_path output/temp \
         --log_samples --device cuda:0 --wandb_args project=irish_llm_evaluation

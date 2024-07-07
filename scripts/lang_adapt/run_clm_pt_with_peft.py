@@ -317,6 +317,7 @@ class MyTrainingArguments(TrainingArguments):
     debug_mode : Optional[bool] = field(default=False)
     peft_path : Optional[str] = field(default=None)
     use_peft : Optional[bool] = field(default=True)
+    langdeplay: Optional[str] = field(default="None")
 
 
 logger = logging.getLogger(__name__)
@@ -606,6 +607,29 @@ def main():
                     modules_to_save=modules_to_save)
             model = get_peft_model(model, peft_config)
         model.print_trainable_parameters()
+
+    ## TRAIN LANGUAGE DEPENDENT LAYER:
+    if training_args.langdeplay == "None":
+        pass
+    elif training_args.langdeplay == "Default":
+        for name, param in model.named_parameters():
+            param.requires_grad = False
+            if 'embed_tokens' in name or 'lm_head' in name:
+                param.requires_grad = True
+            for i in range(8):
+                if f'layers.{i}.' in name:
+                    param.requires_grad = True
+            for i in range(37,40):
+                if f'layers.{i}.' in name:
+                    param.requires_grad = True
+    elif training_args.langdeplay == "Revert":
+        for name, param in model.named_parameters():
+            param.requires_grad = False
+            if 'embed_tokens' in name or 'lm_head' in name:
+                param.requires_grad = True
+            for i in range(8,37):
+                if f'layers.{i}.' in name:
+                    param.requires_grad = True
 
     # Initialize our Trainer
     trainer_cls = Trainer if training_args.trainer == "default" else TrainerWithCustomSampler
