@@ -14,8 +14,8 @@ Check out our papers:
 Our implementations support the following features:
 - Extending tokenizer's vocabulary to support languages unseen by the original tokenizer.
 - Continued pre-training on the target language data, with different strategies: full-finetuning, LoRA, etc.
-- Our framework for dynamic and efficient language adaptation.
 - Data mixture and scheduler, that allows the use of parallel data.
+- Our framework for dynamic and efficient language adaptation.
 
 ## Requirements and Installation
 We use *python* version 3.10, `torch==2.1.2`, `transformers==4.36.2`, and `deepspeed==0.13.3`. Other versions may caused conflicts and unstable in training.
