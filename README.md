@@ -2,7 +2,7 @@
 This repository hosts the codes for reproducing our Irish-based Large Language Models.
 
 Check out our papers:
-- [UCCIX: Irish-eXcellence Large Language Model](https://arxiv.org/abs/2405.13010)
+- [UCCIX: Irish-eXcellence Large Language Model](https://arxiv.org/abs/2405.13010), ECAI2024 (Demo track)
 - Irish-based Large Language Model with Extreme Low-Resource Settings in Machine Translation, LoResMT 2024, ACL2024
 
 We released our models' checkpoints and curated datasets at: https://huggingface.co/ReliableAI
